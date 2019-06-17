@@ -1,0 +1,75 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Sends an external trigger to an activity instance that is waiting inside the given execution. * * Note that you need to provide the exact execution that is waiting for the signal * if the process instance contains multiple executions." />
+      <item value="&lt;p&gt;Activates the process instance with the given id.&lt;/p&gt; * * &lt;p&gt;If you have a process instance hierarchy, activating * one process instance from the hierarchy will not activate other * process instances from that hierarchy.&lt;/p&gt; * * &lt;p&gt;Note: for more complex activate commands use {@link #updateProcessInstanceSuspensionState()}.&lt;/p&gt; *" />
+      <item value="&lt;p&gt;Default {@link Application} registering all resources.&lt;/p&gt; * * &lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt; This class is excluded from the classes-jar, * such that users that want to embed the REST API as a JAR file into a * custom JAX-RS application are able to build a deployment based on their * requirements.&lt;/p&gt;" />
+      <item value="general callback to override any configuration after the defaults have been applied" />
+      <item value="in case of shared process definitions, the job definitions have no tenant id. // To distinguish jobs between tenants and enable the tenant check for the job executor, // use the tenant id from the execution." />
+      <item value="contentExecution can be null in case of a timer start event or // and batch jobs unrelated to executions" />
+      <item value="&lt;!-- Output: a comma-separated list of the ordering columns with aliases; the aliases avoid name clashes with other columns --&gt;" />
+      <item value="execution might have ended in the meanwhile" />
+      <item value="execution was canceled for example via terminate end event" />
+      <item value="if operation is not async capable, perform right away" />
+      <item value="assumption: all operations are executed within the same process application..." />
+      <item value="will be picked up by while loop below" />
+      <item value="fire Historic Process Start Event" />
+      <item value="smells bad, as the rest of the history is done via the" />
+      <item value="When the activity is marked as multi instance, then async jobs create instead for the multi instance body. * When the wrapped activity has async characteristics in 'multiInstanceLoopCharacteristics' element, * then async jobs create additionally for the wrapped activity." />
+      <item value="Parse async continuation of an activity and create async jobs for the activity." />
+      <item value="if the start event is async, we have to set the variables already here // since they are lost after the async continuation otherwise" />
+      <item value="fire history events" />
+      <item value="user Operation Log Enabled" />
+      <item value="* Provides the keys used by {@link DbEntityCache} for organizing the different {@link DbEntity} types. * Especially for polymorphic types, it is important that they are accessible in the cache under one * common key such that querying the cache with a superclass or with a subclass both return the cached * entities." />
+      <item value="terminate" />
+      <item value="As policy, implementations of this interface are responsible for selecting which cookies to * accept and which to reject. A reasonable policy is to reject all cookies, though that may * interfere with session-based authentication schemes that require cookies." />
+      <item value="terminate Service" />
+      <item value="scale" />
+      <item value="scale Service" />
+      <item value="deal" />
+      <item value="Sync package from SDC" />
+      <item value="Time unit representing one second" />
+      <item value="Allows Directed Graphs the ability to interact with REST APIs. * @param paramMap HashMap&lt;String,String&gt; of parameters passed by the DG to this function" />
+      <item value="mill" />
+      <item value="millseconds" />
+      <item value="Maximum number of idle dB connections to retain in pool" />
+      <item value="Maximum number of dB connections in pool" />
+      <item value="Maximum time to wait for a dB connection" />
+      <item value="data Record" />
+      <item value="The GET requests support a depth query parameter allowing a query to&#10;stop after it has reached a certain point in the graph. This allows&#10;clients to minimize the data that is returned to them. A depth=0 returns&#10;the resource itself and none of its children." />
+      <item value="Flag to indicate that this route should be retryable (if supported). Generally * retry requires a service ID and ribbon." />
+      <item value="A full physical URL to map to the route. An alternative is to use a service ID * and service discovery to find the physical address." />
+      <item value="interested" />
+      <item value="This is the &quot;Create VF Module&quot; web service implementation. * It will instantiate a new VF Module of the requested type in the specified cloud * and tenant. The tenant must exist before this service is called. * * If a VF Module with the same name already exists, this can be considered a * success or failure, depending on the value of the 'failIfExists' parameter. * * All VF Modules are defined in the MSO catalog. The caller must request * one of the pre-defined module types or an error will be returned. Within the * catalog, each VF Module references (among other things) a cloud template * which is used to deploy the required artifacts (VMs, networks, etc.) * to the cloud. In this adapter implementation, that artifact is expected * to be a Cloudify blueprint. * * Depending on the blueprint, a variable set of input parameters will * be defined, some of which are required. The caller is responsible to * pass the necessary input data for the module or an error will be thrown. * * The method returns the vfModuleId, a Map of output attributes, and a VnfRollback * object. This last object can be passed as-is to the rollbackVnf operation to * undo everything that was created for the Module. This is useful if a VF module * is successfully created but the orchestration fails on a subsequent step." />
+      <item value="Query for a single stack (by Name) in a tenant. This call will always return a * StackInfo object. If the stack does not exist, an &quot;empty&quot; StackInfo will be * returned - containing only the stack name and a status of NOTFOUND." />
+      <item value="This method is used instead of an HTTP Connector task because the * connector does not allow DELETE with a body." />
+      <item value="Tries to parse the response as XML to extract the information to create * a WorkflowException. If the response cannot be parsed, a more generic * WorkflowException is created." />
+      <item value="Defines a base implementation for your provider. This class extends from a helper class * which provides storage for the most commonly used components of the MD-SAL. Additionally the * base class provides some basic logging and initialization / clean up methods. * * To use this, copy and paste (overwrite) the following method into the TestApplicationProviderModule * class which is auto generated under src/main/java in this project * (created only once during first compilation):" />
+      <item value="Abort" />
+      <item value="remaining" />
+      <item value="update Flow Statistics" />
+      <item value="Resource version specified on create" />
+      <item value="verify" />
+      <item value="Add resource models here in the order you want them to be added to the graph. Recommended that they are spaced by 10's. So, if you are adding a resource model it should be: 100-ipe-resource-model-1.0.json&#10;110-vBgf-resource-model-1.0.json This will allow others to insert models between existing models." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="202" />
+        <entry key="ENGLISH" value="203" />
+        <entry key="IRISH" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="RUSSIAN" value="1" />
+        <entry key="FRENCH" value="1" />
+        <entry key="DUTCH" value="1" />
+        <entry key="GALICIAN" value="3" />
+        <entry key="LATIN" value="2" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="MALTESE" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="PORTUGUESE" value="1" />
+        <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+</application>
