@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flags to use new vagrant configuration" />
       <item value="Sends an external trigger to an activity instance that is waiting inside the given execution. * * Note that you need to provide the exact execution that is waiting for the signal * if the process instance contains multiple executions." />
       <item value="&lt;p&gt;Activates the process instance with the given id.&lt;/p&gt; * * &lt;p&gt;If you have a process instance hierarchy, activating * one process instance from the hierarchy will not activate other * process instances from that hierarchy.&lt;/p&gt; * * &lt;p&gt;Note: for more complex activate commands use {@link #updateProcessInstanceSuspensionState()}.&lt;/p&gt; *" />
       <item value="&lt;p&gt;Default {@link Application} registering all resources.&lt;/p&gt; * * &lt;p&gt;&lt;strong&gt;NOTE&lt;/strong&gt; This class is excluded from the classes-jar, * such that users that want to embed the REST API as a JAR file into a * custom JAX-RS application are able to build a deployment based on their * requirements.&lt;/p&gt;" />
@@ -50,12 +51,11 @@
       <item value="update Flow Statistics" />
       <item value="Resource version specified on create" />
       <item value="verify" />
-      <item value="Add resource models here in the order you want them to be added to the graph. Recommended that they are spaced by 10's. So, if you are adding a resource model it should be: 100-ipe-resource-model-1.0.json&#10;110-vBgf-resource-model-1.0.json This will allow others to insert models between existing models." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
-        <entry key="ENGLISH" value="203" />
+        <entry key="CHINESE" value="203" />
+        <entry key="ENGLISH" value="204" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
