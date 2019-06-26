@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="separator" />
+      <item value="The system-dependent default name-separator character, represented as a * string for convenience. This string contains a single character, namely" />
       <item value="Certified" />
       <item value="A handler class designed to parse the YAML file of the service template for a JAVA object" />
       <item value="validate And Update Resource From Csar" />
@@ -49,13 +51,11 @@
       <item value="This method is used instead of an HTTP Connector task because the * connector does not allow DELETE with a body." />
       <item value="Tries to parse the response as XML to extract the information to create * a WorkflowException. If the response cannot be parsed, a more generic * WorkflowException is created." />
       <item value="Defines a base implementation for your provider. This class extends from a helper class * which provides storage for the most commonly used components of the MD-SAL. Additionally the * base class provides some basic logging and initialization / clean up methods. * * To use this, copy and paste (overwrite) the following method into the TestApplicationProviderModule * class which is auto generated under src/main/java in this project * (created only once during first compilation):" />
-      <item value="Abort" />
-      <item value="remaining" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
-        <entry key="ENGLISH" value="207" />
+        <entry key="CHINESE" value="208" />
+        <entry key="ENGLISH" value="209" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
