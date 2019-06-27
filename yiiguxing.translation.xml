@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="&lt;p&gt;The class {@code Exception} and any subclasses that are not also * subclasses of {@link RuntimeException} are &lt;em&gt;checked * exceptions&lt;/em&gt;. Checked exceptions need to be declared in a * method or constructor's {@code throws} clause if they can be thrown * by the execution of the method or constructor and propagate outside * the method or constructor boundary." />
       <item value="separator" />
       <item value="The system-dependent default name-separator character, represented as a * string for convenience. This string contains a single character, namely" />
       <item value="Certified" />
@@ -50,12 +51,11 @@
       <item value="Query for a single stack (by Name) in a tenant. This call will always return a * StackInfo object. If the stack does not exist, an &quot;empty&quot; StackInfo will be * returned - containing only the stack name and a status of NOTFOUND." />
       <item value="This method is used instead of an HTTP Connector task because the * connector does not allow DELETE with a body." />
       <item value="Tries to parse the response as XML to extract the information to create * a WorkflowException. If the response cannot be parsed, a more generic * WorkflowException is created." />
-      <item value="Defines a base implementation for your provider. This class extends from a helper class * which provides storage for the most commonly used components of the MD-SAL. Additionally the * base class provides some basic logging and initialization / clean up methods. * * To use this, copy and paste (overwrite) the following method into the TestApplicationProviderModule * class which is auto generated under src/main/java in this project * (created only once during first compilation):" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="208" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="CHINESE" value="209" />
+        <entry key="ENGLISH" value="210" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
