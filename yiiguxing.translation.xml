@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="renaming" />
+      <item value="Consider" />
       <item value="rate" />
       <item value="capacity" />
       <item value="We don't want a hard dependency on Redis to allow traffic. Make sure to set * an alert so you know if this is happening too much. Stripe's observed * failure rate is 0.01%." />
@@ -49,13 +51,11 @@
       <item value="Maximum time to wait for a dB connection" />
       <item value="data Record" />
       <item value="The GET requests support a depth query parameter allowing a query to&#10;stop after it has reached a certain point in the graph. This allows&#10;clients to minimize the data that is returned to them. A depth=0 returns&#10;the resource itself and none of its children." />
-      <item value="Flag to indicate that this route should be retryable (if supported). Generally * retry requires a service ID and ribbon." />
-      <item value="A full physical URL to map to the route. An alternative is to use a service ID * and service discovery to find the physical address." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="214" />
-        <entry key="ENGLISH" value="215" />
+        <entry key="CHINESE" value="216" />
+        <entry key="ENGLISH" value="217" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
