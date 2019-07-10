@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="estore a {@link Flux Flux&amp;lt;VALUE&amp;gt;} from the cache-map given a provided key. * The cache is expected to store original values as a {@link List} of {@link Signal} * of T. If no value is in the cache, it will be calculated from the original source * which is set up in the next step. Note that if the source completes empty, this * result will be cached and all subsequent requests with the same key will return * {@link Flux#empty()}. The behaviour is similar for erroring sources, except cache * hits would then return {@link Flux#error(Throwable)}. * &lt;p&gt; * Note that the wrapped {@link Flux} is lazy, meaning that subscribing twice in a row * to the returned {@link Flux} on an empty cache will trigger a cache miss then a * cache hit." />
       <item value="renaming" />
       <item value="Consider" />
       <item value="rate" />
@@ -50,12 +51,11 @@
       <item value="Maximum number of dB connections in pool" />
       <item value="Maximum time to wait for a dB connection" />
       <item value="data Record" />
-      <item value="The GET requests support a depth query parameter allowing a query to&#10;stop after it has reached a certain point in the graph. This allows&#10;clients to minimize the data that is returned to them. A depth=0 returns&#10;the resource itself and none of its children." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="216" />
-        <entry key="ENGLISH" value="217" />
+        <entry key="CHINESE" value="217" />
+        <entry key="ENGLISH" value="218" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
