@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at" />
+      <item value="Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
       <item value="SpEL expression that will evaluate whether to include a service in gateway * integration or not, defaults to: true." />
       <item value="change to RouteLocator? use java dsl" />
       <item value="Restore a {@link Flux Flux&amp;lt;VALUE&amp;gt;} from the cache-map given a provided key. * The cache is expected to store original values as a {@link List} of {@link Signal} * of T. If no value is in the cache, it will be calculated from the original source * which is set up in the next step. Note that if the source completes empty, this * result will be cached and all subsequent requests with the same key will return * {@link Flux#empty()}. The behaviour is similar for erroring sources, except cache * hits would then return {@link Flux#error(Throwable)}. * &lt;p&gt; * Note that the wrapped {@link Flux} is lazy, meaning that subscribing twice in a row * to the returned {@link Flux} on an empty cache will trigger a cache miss then a * cache hit." />
@@ -49,13 +51,11 @@
       <item value="Time unit representing one second" />
       <item value="Allows Directed Graphs the ability to interact with REST APIs. * @param paramMap HashMap&lt;String,String&gt; of parameters passed by the DG to this function" />
       <item value="mill" />
-      <item value="millseconds" />
-      <item value="Maximum number of idle dB connections to retain in pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="220" />
-        <entry key="ENGLISH" value="221" />
+        <entry key="CHINESE" value="222" />
+        <entry key="ENGLISH" value="223" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
