@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SpEL expression that will evaluate whether to include a service in gateway * integration or not, defaults to: true." />
       <item value="change to RouteLocator? use java dsl" />
       <item value="Restore a {@link Flux Flux&amp;lt;VALUE&amp;gt;} from the cache-map given a provided key. * The cache is expected to store original values as a {@link List} of {@link Signal} * of T. If no value is in the cache, it will be calculated from the original source * which is set up in the next step. Note that if the source completes empty, this * result will be cached and all subsequent requests with the same key will return * {@link Flux#empty()}. The behaviour is similar for erroring sources, except cache * hits would then return {@link Flux#error(Throwable)}. * &lt;p&gt; * Note that the wrapped {@link Flux} is lazy, meaning that subscribing twice in a row * to the returned {@link Flux} on an empty cache will trigger a cache miss then a * cache hit." />
       <item value="estore a {@link Flux Flux&amp;lt;VALUE&amp;gt;} from the cache-map given a provided key. * The cache is expected to store original values as a {@link List} of {@link Signal} * of T. If no value is in the cache, it will be calculated from the original source * which is set up in the next step. Note that if the source completes empty, this * result will be cached and all subsequent requests with the same key will return * {@link Flux#empty()}. The behaviour is similar for erroring sources, except cache * hits would then return {@link Flux#error(Throwable)}. * &lt;p&gt; * Note that the wrapped {@link Flux} is lazy, meaning that subscribing twice in a row * to the returned {@link Flux} on an empty cache will trigger a cache miss then a * cache hit." />
@@ -50,12 +51,11 @@
       <item value="mill" />
       <item value="millseconds" />
       <item value="Maximum number of idle dB connections to retain in pool" />
-      <item value="Maximum number of dB connections in pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="219" />
-        <entry key="ENGLISH" value="220" />
+        <entry key="CHINESE" value="220" />
+        <entry key="ENGLISH" value="221" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
