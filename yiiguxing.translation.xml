@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the flag to enable the priority fetching mechanism" />
       <item value="&lt;p&gt;Returns at most &lt;code&gt;maxTasks&lt;/code&gt; tasks. The tasks are arbitrarily * distributed among the specified topics. Example: Fetching 10 tasks of topics * &quot;a&quot;/&quot;b&quot;/&quot;c&quot; may return 3/3/4 tasks, or 10/0/0 tasks, etc.&lt;/p&gt;" />
       <item value="May return less than &lt;code&gt;maxTasks&lt;/code&gt; tasks, if there exist not enough * unlocked tasks matching the provided topics or if parallel fetching by other workers * results in locking failures.&lt;/p&gt;" />
       <item value="&lt;p&gt;Returned tasks are locked for the given worker until * &lt;code&gt;now + lockDuration&lt;/code&gt; expires. * Locked tasks cannot be fetched or completed by other workers. When the lock time has expired, * a task may be fetched and locked by other workers.&lt;/p&gt;" />
@@ -50,12 +51,11 @@
       <item value="Parse async continuation of an activity and create async jobs for the activity." />
       <item value="if the start event is async, we have to set the variables already here // since they are lost after the async continuation otherwise" />
       <item value="fire history events" />
-      <item value="user Operation Log Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="232" />
-        <entry key="ENGLISH" value="233" />
+        <entry key="CHINESE" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
