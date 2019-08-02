@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the duration in milliseconds for which tasks should be locked;" />
+      <item value="Performs the fetching. Locks candidate tasks of the given topics * for the specified duration." />
       <item value="Variant of JSR-303's {@link javax.validation.Valid}, supporting the * specification of validation groups. Designed for convenient use with * Spring's JSR-303 support but not JSR-303 specific." />
       <item value="Specify one or more validation groups to apply to the validation step * kicked off by this annotation." />
       <item value="pecify one or more validation groups to apply to the validation step * kicked off by this annotation." />
@@ -49,13 +51,11 @@
       <item value="terminate" />
       <item value="As policy, implementations of this interface are responsible for selecting which cookies to * accept and which to reject. A reasonable policy is to reject all cookies, though that may * interfere with session-based authentication schemes that require cookies." />
       <item value="terminate Service" />
-      <item value="scale" />
-      <item value="scale Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
