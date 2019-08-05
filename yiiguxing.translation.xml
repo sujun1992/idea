@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="the name of the variable you want to fetch and query by" />
+      <item value="is Transient" />
       <item value="the value of the variable which you want to filter" />
       <item value="Define a single variable and its name to filter tasks in a topic. Multiple calls to * this method add to the existing &quot;variable filters&quot;." />
+      <item value="the name of the variable you want to fetch and query by" />
       <item value="Define a HashMap of variables and their values to filter correlated tasks. * Calling this method multiple times overrides the previously specified variables." />
       <item value="mplementations are not required to track disposition and as such may never * return {@literal true} even when disposed. However, they MUST only return true * when there's a guarantee the resource or task is disposed." />
       <item value="when the resource or task is disposed" />
@@ -50,12 +51,11 @@
       <item value="&lt;!-- Output: a comma-separated list of the ordering columns with aliases; the aliases avoid name clashes with other columns --&gt;" />
       <item value="execution might have ended in the meanwhile" />
       <item value="execution was canceled for example via terminate end event" />
-      <item value="if operation is not async capable, perform right away" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
