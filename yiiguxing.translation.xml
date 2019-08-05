@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="reates a new TypedValue using this type." />
       <item value="is Transient" />
       <item value="the value of the variable which you want to filter" />
       <item value="Define a single variable and its name to filter tasks in a topic. Multiple calls to * this method add to the existing &quot;variable filters&quot;." />
@@ -50,12 +51,11 @@
       <item value="contentExecution can be null in case of a timer start event or // and batch jobs unrelated to executions" />
       <item value="&lt;!-- Output: a comma-separated list of the ordering columns with aliases; the aliases avoid name clashes with other columns --&gt;" />
       <item value="execution might have ended in the meanwhile" />
-      <item value="execution was canceled for example via terminate end event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="245" />
+        <entry key="CHINESE" value="245" />
+        <entry key="ENGLISH" value="246" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
