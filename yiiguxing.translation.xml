@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the id of the worker that completes the task" />
       <item value="the flag to enable the priority fetching mechanism" />
       <item value="&lt;p&gt;Returns at most &lt;code&gt;maxTasks&lt;/code&gt; tasks. The tasks are arbitrarily * distributed among the specified topics. Example: Fetching 10 tasks of topics * &quot;a&quot;/&quot;b&quot;/&quot;c&quot; may return 3/3/4 tasks, or 10/0/0 tasks, etc.&lt;/p&gt;" />
       <item value="May return less than &lt;code&gt;maxTasks&lt;/code&gt; tasks, if there exist not enough * unlocked tasks matching the provided topics or if parallel fetching by other workers * results in locking failures.&lt;/p&gt;" />
@@ -50,7 +51,6 @@
       <item value="When the activity is marked as multi instance, then async jobs create instead for the multi instance body. * When the wrapped activity has async characteristics in 'multiInstanceLoopCharacteristics' element, * then async jobs create additionally for the wrapped activity." />
       <item value="Parse async continuation of an activity and create async jobs for the activity." />
       <item value="if the start event is async, we have to set the variables already here // since they are lost after the async continuation otherwise" />
-      <item value="fire history events" />
     </histories>
     <option name="languageScores">
       <map>
