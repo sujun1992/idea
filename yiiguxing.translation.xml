@@ -1,8 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="the id of the worker that completes the task" />
+      <item value="the name of the variable you want to fetch and query by" />
+      <item value="the value of the variable which you want to filter" />
+      <item value="Define a single variable and its name to filter tasks in a topic. Multiple calls to * this method add to the existing &quot;variable filters&quot;." />
+      <item value="Define a HashMap of variables and their values to filter correlated tasks. * Calling this method multiple times overrides the previously specified variables." />
+      <item value="mplementations are not required to track disposition and as such may never * return {@literal true} even when disposed. However, they MUST only return true * when there's a guarantee the resource or task is disposed." />
+      <item value="when the resource or task is disposed" />
+      <item value="Disable fetching of byte array and file values. By default, the query will fetch such values. * By calling this method you can prevent the values of (potentially large) blob data chunks * to be fetched. The variables themselves are nonetheless included in the query result." />
       <item value="the flag to enable the priority fetching mechanism" />
+      <item value="the id of the worker that completes the task" />
       <item value="&lt;p&gt;Returns at most &lt;code&gt;maxTasks&lt;/code&gt; tasks. The tasks are arbitrarily * distributed among the specified topics. Example: Fetching 10 tasks of topics * &quot;a&quot;/&quot;b&quot;/&quot;c&quot; may return 3/3/4 tasks, or 10/0/0 tasks, etc.&lt;/p&gt;" />
       <item value="May return less than &lt;code&gt;maxTasks&lt;/code&gt; tasks, if there exist not enough * unlocked tasks matching the provided topics or if parallel fetching by other workers * results in locking failures.&lt;/p&gt;" />
       <item value="&lt;p&gt;Returned tasks are locked for the given worker until * &lt;code&gt;now + lockDuration&lt;/code&gt; expires. * Locked tasks cannot be fetched or completed by other workers. When the lock time has expired, * a task may be fetched and locked by other workers.&lt;/p&gt;" />
@@ -44,18 +51,11 @@
       <item value="execution might have ended in the meanwhile" />
       <item value="execution was canceled for example via terminate end event" />
       <item value="if operation is not async capable, perform right away" />
-      <item value="assumption: all operations are executed within the same process application..." />
-      <item value="will be picked up by while loop below" />
-      <item value="fire Historic Process Start Event" />
-      <item value="smells bad, as the rest of the history is done via the" />
-      <item value="When the activity is marked as multi instance, then async jobs create instead for the multi instance body. * When the wrapped activity has async characteristics in 'multiInstanceLoopCharacteristics' element, * then async jobs create additionally for the wrapped activity." />
-      <item value="Parse async continuation of an activity and create async jobs for the activity." />
-      <item value="if the start event is async, we have to set the variables already here // since they are lost after the async continuation otherwise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
