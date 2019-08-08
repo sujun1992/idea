@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unsatisfied" />
       <item value="reates a new TypedValue using this type." />
       <item value="is Transient" />
       <item value="the value of the variable which you want to filter" />
@@ -50,12 +51,11 @@
       <item value="in case of shared process definitions, the job definitions have no tenant id. // To distinguish jobs between tenants and enable the tenant check for the job executor, // use the tenant id from the execution." />
       <item value="contentExecution can be null in case of a timer start event or // and batch jobs unrelated to executions" />
       <item value="&lt;!-- Output: a comma-separated list of the ordering columns with aliases; the aliases avoid name clashes with other columns --&gt;" />
-      <item value="execution might have ended in the meanwhile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="246" />
+        <entry key="CHINESE" value="246" />
+        <entry key="ENGLISH" value="247" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
