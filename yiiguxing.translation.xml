@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="a map of variables that contains an entry for every variable * that was specified at fetching time, if such a variable exists in the task's * ancestor execution hierarchy." />
       <item value="Unsatisfied" />
       <item value="reates a new TypedValue using this type." />
       <item value="is Transient" />
@@ -50,12 +51,11 @@
       <item value="general callback to override any configuration after the defaults have been applied" />
       <item value="in case of shared process definitions, the job definitions have no tenant id. // To distinguish jobs between tenants and enable the tenant check for the job executor, // use the tenant id from the execution." />
       <item value="contentExecution can be null in case of a timer start event or // and batch jobs unrelated to executions" />
-      <item value="&lt;!-- Output: a comma-separated list of the ordering columns with aliases; the aliases avoid name clashes with other columns --&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="246" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
