@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unavailable For Legal Reasons" />
+      <item value="Network Authentication Required" />
+      <item value="Unavailable" />
+      <item value="Variant Also Negotiates" />
+      <item value="Insufficient" />
+      <item value="Loop Detected" />
+      <item value="Loop" />
+      <item value="Detected" />
+      <item value="Extended" />
       <item value="添加一个目标主机" />
       <item value="Whether to register the management as a service. Defaults to true" />
       <item value="hether service auto-registration is enabled. Defaults to true." />
@@ -42,20 +51,11 @@
       <item value="estore a {@link Flux Flux&amp;lt;VALUE&amp;gt;} from the cache-map given a provided key. * The cache is expected to store original values as a {@link List} of {@link Signal} * of T. If no value is in the cache, it will be calculated from the original source * which is set up in the next step. Note that if the source completes empty, this * result will be cached and all subsequent requests with the same key will return * {@link Flux#empty()}. The behaviour is similar for erroring sources, except cache * hits would then return {@link Flux#error(Throwable)}. * &lt;p&gt; * Note that the wrapped {@link Flux} is lazy, meaning that subscribing twice in a row * to the returned {@link Flux} on an empty cache will trigger a cache miss then a * cache hit." />
       <item value="renaming" />
       <item value="Consider" />
-      <item value="rate" />
-      <item value="capacity" />
-      <item value="We don't want a hard dependency on Redis to allow traffic. Make sure to set * an alert so you know if this is happening too much. Stripe's observed * failure rate is 0.01%." />
-      <item value="This uses a basic token bucket algorithm and relies on the fact that Redis scripts * execute atomically. No other operations can run between fetching the count and * writing the new count." />
-      <item value="he name of the header that returns number of remaining requests during the current second." />
-      <item value="&lt;p&gt;The class {@code Exception} and any subclasses that are not also * subclasses of {@link RuntimeException} are &lt;em&gt;checked * exceptions&lt;/em&gt;. Checked exceptions need to be declared in a * method or constructor's {@code throws} clause if they can be thrown * by the execution of the method or constructor and propagate outside * the method or constructor boundary." />
-      <item value="separator" />
-      <item value="The system-dependent default name-separator character, represented as a * string for convenience. This string contains a single character, namely" />
-      <item value="Certified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="256" />
-        <entry key="ENGLISH" value="256" />
+        <entry key="CHINESE" value="264" />
+        <entry key="ENGLISH" value="265" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
