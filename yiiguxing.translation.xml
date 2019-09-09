@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="true if the raw password, after encoding, matches the encoded password from * storage" />
+      <item value="Verify the encoded password obtained from storage matches the submitted raw * password after it too is encoded. Returns true if the passwords match, false if * they do not. The stored password itself is never decoded." />
+      <item value="the hashed password" />
       <item value="Returns the operations performed on hash values bound to the given key." />
       <item value="raw Password" />
       <item value="&lt;p&gt;Sort the {@link HistoricActivityInstance activity instances} in the order in which * they occurred (ie. started) and needs to be followed by {@link #asc()} or {@link #desc()}.&lt;/p&gt; * * &lt;p&gt;The set of all {@link HistoricActivityInstance activity instances} is a &lt;strong&gt;partially * ordered set&lt;/strong&gt;. At a BPMN level this means that instances of concurrent activities (example: * activities on different parallel branched after a parallel gateway) cannot be compared to each other. * Instances of activities which are part of happens-before relation at the BPMN level will be ordered * in respect to that relation.&lt;/p&gt; * * &lt;p&gt;Technically this means that {@link HistoricActivityInstance activity instances} * with different {@link HistoricActivityInstance#getExecutionId() execution ids} are * &lt;strong&gt;incomparable&lt;/strong&gt;. Only {@link HistoricActivityInstance activity instances} with * the same {@link HistoricActivityInstance#getExecutionId() execution id} can be &lt;strong&gt;totally * ordered&lt;/strong&gt; by using {@link #executionId(String)} and {@link #orderPartiallyByOccurrence()} * which will return a result set ordered by its occurrence.&lt;/p&gt;" />
@@ -48,9 +51,6 @@
       <item value="rejected" />
       <item value="Attaches callbacks for the resolution and/or rejection of the Promise. * @param onfulfilled The callback to execute when the Promise is resolved. * @param onrejected The callback to execute when the Promise is rejected. * @returns A Promise for the completion of which ever callback is executed." />
       <item value="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at" />
-      <item value="Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an &quot;AS IS&quot; BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language governing permissions and * limitations under the License." />
-      <item value="SpEL expression that will evaluate whether to include a service in gateway * integration or not, defaults to: true." />
-      <item value="change to RouteLocator? use java dsl" />
     </histories>
     <option name="languageScores">
       <map>
