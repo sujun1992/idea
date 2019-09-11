@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A refresh token has its own default scopes, so we should ignore any added by the factory here." />
       <item value="A {@link TokenStore} implementation that just reads data from the tokens themselves. Not really a store since it * never persists anything, and methods like {@link #getAccessToken(OAuth2Authentication)} always return null. But * nevertheless a useful tool since it translates access tokens to and from authentications. Use this wherever a * {@link TokenStore} is needed, but remember to use the same {@link JwtAccessTokenConverter} instance (or one with the same * verifier) as was used when the tokens were minted." />
       <item value="The access token validity period in seconds" />
       <item value="The lifetime in seconds of the access token. For example, the value &quot;3600&quot; denotes that the access token will * expire in one hour from the time the response was generated. This value is OPTIONAL." />
@@ -50,12 +51,11 @@
       <item value="IP address to use when accessing service (must also set preferIpAddress to use)." />
       <item value="Should override the host info." />
       <item value="the following configuration is for alternate feign clients if // ribbon is not on the class path. // see corresponding configurations in FeignRibbonClientAutoConfiguration // for load balanced ribbon clients." />
-      <item value="a map of variables that contains an entry for every variable * that was specified at fetching time, if such a variable exists in the task's * ancestor execution hierarchy." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
