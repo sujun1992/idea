@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Emit the last element observed before complete signal as a {@link Mono}, or emit * {@link NoSuchElementException} error if the source was empty. * For a passive version use {@link #takeLast(int)}" />
+      <item value="Turn this {@link Flux} into a hot source and cache last emitted signals for further {@link Subscriber}. Will * retain an unbounded volume of onNext signals. Completion and Error will also be * replayed." />
+      <item value="Repeatedly take a value from this {@link Flux} then skip the values that follow * within a given duration. * * &lt;p&gt; * &lt;img class=&quot;marble&quot; src=&quot;doc-files/marbles/sampleFirstAtRegularInterval.svg&quot; alt=&quot;&quot;&gt;" />
+      <item value="maximum time period to wait for before raising a" />
+      <item value="Subscribe to this {@link Flux} and &lt;strong&gt;block indefinitely&lt;/strong&gt; * until the upstream signals its first value or completes. Returns that value, * or null if the Flux completes empty. In case the Flux errors, the original * exception is thrown (wrapped in a {@link RuntimeException} if it was a checked * exception)." />
+      <item value="metrics" />
+      <item value="Activate metrics for this sequence, provided there is an instrumentation facade * on the classpath (otherwise this method is a pure no-op)." />
+      <item value="Subscribe to this {@link Mono} and &lt;strong&gt;block indefinitely&lt;/strong&gt; until a next signal is * received. Returns that value, or null if the Mono completes empty. In case the Mono * errors, the original exception is thrown (wrapped in a {@link RuntimeException} if * it was a checked exception)." />
       <item value="ubscribe to this {@link Mono} and &lt;strong&gt;block indefinitely&lt;/strong&gt; until a next signal is * received. Returns that value, or null if the Mono completes empty. In case the Mono * errors, the original exception is thrown (wrapped in a {@link RuntimeException} if * it was a checked exception)." />
       <item value="Recover an access token from the converted value. Half the inverse of" />
       <item value="The authentication associated with the token." />
@@ -43,19 +51,11 @@
       <item value="Unsatisfied" />
       <item value="reates a new TypedValue using this type." />
       <item value="is Transient" />
-      <item value="the value of the variable which you want to filter" />
-      <item value="Define a single variable and its name to filter tasks in a topic. Multiple calls to * this method add to the existing &quot;variable filters&quot;." />
-      <item value="the name of the variable you want to fetch and query by" />
-      <item value="Define a HashMap of variables and their values to filter correlated tasks. * Calling this method multiple times overrides the previously specified variables." />
-      <item value="mplementations are not required to track disposition and as such may never * return {@literal true} even when disposed. However, they MUST only return true * when there's a guarantee the resource or task is disposed." />
-      <item value="when the resource or task is disposed" />
-      <item value="Disable fetching of byte array and file values. By default, the query will fetch such values. * By calling this method you can prevent the values of (potentially large) blob data chunks * to be fetched. The variables themselves are nonetheless included in the query result." />
-      <item value="the flag to enable the priority fetching mechanism" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="282" />
-        <entry key="ENGLISH" value="283" />
+        <entry key="CHINESE" value="290" />
+        <entry key="ENGLISH" value="291" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
