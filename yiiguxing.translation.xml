@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the key in its primary encoding format, or null * if this key does not support encoding." />
       <item value="set Verifier Key" />
       <item value="set Signing Key" />
       <item value="Sets the JWT signing key. It can be either a simple MAC key or an RSA key. RSA keys * should be in OpenSSH format, as produced by &lt;tt&gt;ssh-keygen&lt;/tt&gt;." />
@@ -50,12 +51,11 @@
       <item value="Whether to register the management as a service. Defaults to true" />
       <item value="hether service auto-registration is enabled. Defaults to true." />
       <item value="Enables discovery client health indicators" />
-      <item value="Register as a service in consul." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="301" />
-        <entry key="ENGLISH" value="302" />
+        <entry key="CHINESE" value="302" />
+        <entry key="ENGLISH" value="303" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
