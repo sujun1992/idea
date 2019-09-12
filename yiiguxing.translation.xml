@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="gh-807 Approvals (if any) should only be removed when Refresh Tokens are removed (or expired)" />
+      <item value="We don't want to accidentally issue a token, and we have no way to reconstruct the refresh token" />
       <item value="// The token store could remove the refresh token when the // access token is removed, but we want to // be sure..." />
       <item value="Creates a new instance using the provided URL as the location for the JWK Set." />
       <item value="A {@link TokenStore} implementation that provides support for verifying the * JSON Web Signature (JWS) for a JSON Web Token (JWT) using a JSON Web Key (JWK)." />
@@ -49,13 +51,11 @@
       <item value="Unavailable" />
       <item value="Variant Also Negotiates" />
       <item value="Insufficient" />
-      <item value="Loop Detected" />
-      <item value="Loop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="308" />
-        <entry key="ENGLISH" value="309" />
+        <entry key="CHINESE" value="310" />
+        <entry key="ENGLISH" value="311" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
