@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Lazily initializes the global authentication with a {@link UserDetailsService} if it is * not yet configured and there is only a single Bean of that type. Optionally, if a * {@link PasswordEncoder} is defined will wire this up too." />
+      <item value="Indicates whether the user is enabled or disabled. A disabled user cannot be * authenticated." />
       <item value="role should not start with 'ROLE_' since it is automatically inserted" />
       <item value="Specify that URLs require a particular authority." />
       <item value="Shortcut for specifying URLs require a particular role. If you do not want to * have &quot;ROLE_&quot; automatically inserted see {@link #hasAuthority(String)}." />
@@ -49,13 +51,11 @@
       <item value="Verifies signatures using an RSA public key. * * The key can be supplied directly, or as an SSH public or private key string (in * the standard format produced by &lt;tt&gt;ssh-keygen&lt;/tt&gt;)." />
       <item value="Reads RSA key pairs using BC provider classes but without the * need to specify a crypto provider or have BC added as one." />
       <item value="Returns the standard name of the algorithm for this key pair generator. * See the KeyPairGenerator section in the &lt;a href= * &quot;{@docRoot}/../technotes/guides/security/StandardNames.html#KeyPairGenerator&quot;&gt; * Java Cryptography Architecture Standard Algorithm Name Documentation&lt;/a&gt; * for information about standard algorithm names." />
-      <item value="String is not PEM encoded data" />
-      <item value="Assert a boolean expression, throwing an {@code IllegalStateException} * if the expression evaluates to {@code false}. * &lt;p&gt;Call {@link #isTrue} if you wish to throw an {@code IllegalArgumentException} * on an assertion failure. * &lt;pre class=&quot;code&quot;&gt;Assert.state(id == null, &quot;The id property must not already be initialized&quot;);&lt;/pre&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="323" />
-        <entry key="ENGLISH" value="324" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
