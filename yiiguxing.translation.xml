@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempt to run as a different user" />
+      <item value="@return &lt;code&gt;true&lt;/code&gt; if this &lt;code&gt;RunAsManager&lt;/code&gt; can support the passed * configuration attribute" />
+      <item value="Attempt authorization" />
+      <item value="Indicates whether this &lt;code&gt;RunAsManager&lt;/code&gt; is able to process the passed * &lt;code&gt;ConfigAttribute&lt;/code&gt;. * &lt;p&gt; * This allows the &lt;code&gt;AbstractSecurityInterceptor&lt;/code&gt; to check every * configuration attribute can be consumed by the configured * &lt;code&gt;AccessDecisionManager&lt;/code&gt; and/or &lt;code&gt;RunAsManager&lt;/code&gt; and/or * &lt;code&gt;AfterInvocationManager&lt;/code&gt;. * &lt;/p&gt;" />
       <item value="Allows providing defaults for" />
       <item value="* Provides integration with the Servlet 3 APIs in addition to the ones found in * {@link HttpServlet25RequestFactory}. The additional methods that are integrated with * can be found below:" />
       <item value="Role prefix must not be null" />
@@ -47,15 +51,11 @@
       <item value="Turn this {@link Flux} into a hot source and cache last emitted signals for further {@link Subscriber}. Will * retain an unbounded volume of onNext signals. Completion and Error will also be * replayed." />
       <item value="Repeatedly take a value from this {@link Flux} then skip the values that follow * within a given duration. * * &lt;p&gt; * &lt;img class=&quot;marble&quot; src=&quot;doc-files/marbles/sampleFirstAtRegularInterval.svg&quot; alt=&quot;&quot;&gt;" />
       <item value="maximum time period to wait for before raising a" />
-      <item value="Subscribe to this {@link Flux} and &lt;strong&gt;block indefinitely&lt;/strong&gt; * until the upstream signals its first value or completes. Returns that value, * or null if the Flux completes empty. In case the Flux errors, the original * exception is thrown (wrapped in a {@link RuntimeException} if it was a checked * exception)." />
-      <item value="metrics" />
-      <item value="Activate metrics for this sequence, provided there is an instrumentation facade * on the classpath (otherwise this method is a pure no-op)." />
-      <item value="Subscribe to this {@link Mono} and &lt;strong&gt;block indefinitely&lt;/strong&gt; until a next signal is * received. Returns that value, or null if the Mono completes empty. In case the Mono * errors, the original exception is thrown (wrapped in a {@link RuntimeException} if * it was a checked exception)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="336" />
-        <entry key="ENGLISH" value="337" />
+        <entry key="CHINESE" value="340" />
+        <entry key="ENGLISH" value="341" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
