@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="807 Approvals (if any) should only be removed when Refresh Tokens are removed (or expired)" />
       <item value="The key used for verifying signatures produced by this class. This is not used but * is returned from the endpoint to allow resource servers to obtain the key." />
       <item value="Signing and verification RSA keys do not match" />
       <item value="Returns the key in its primary encoding format, or null * if this key does not support encoding." />
@@ -50,12 +51,11 @@
       <item value="Detected" />
       <item value="Extended" />
       <item value="添加一个目标主机" />
-      <item value="Whether to register the management as a service. Defaults to true" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="304" />
-        <entry key="ENGLISH" value="305" />
+        <entry key="CHINESE" value="305" />
+        <entry key="ENGLISH" value="306" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
