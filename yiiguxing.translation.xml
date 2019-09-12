@@ -1,11 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="role should not start with 'ROLE_' since it is automatically inserted" />
+      <item value="Specify that URLs require a particular authority." />
+      <item value="Shortcut for specifying URLs require a particular role. If you do not want to * have &quot;ROLE_&quot; automatically inserted see {@link #hasAuthority(String)}." />
+      <item value="Specify that URLs are allowed by users who have authenticated and were not * &quot;remembered&quot;." />
+      <item value="Specify that URLs are allowed by users who have authenticated and were not" />
+      <item value="Specify that URLs are allowed by any authenticated user." />
+      <item value="Allows specifying that URLs are secured by an arbitrary expression" />
+      <item value="Specify that URLs are allowed by anyone." />
       <item value="Maps any request" />
       <item value="Specify that URLs are not allowed by anyone." />
       <item value="Specify that URLs are allowed by users that have been remembered." />
       <item value="Specify that URLs are allowed by anonymous users." />
-      <item value="Specify that URLs are allowed by anyone." />
       <item value="gh-807 Approvals (if any) should only be removed when Refresh Tokens are removed (or expired)" />
       <item value="We don't want to accidentally issue a token, and we have no way to reconstruct the refresh token" />
       <item value="// The token store could remove the refresh token when the // access token is removed, but we want to // be sure..." />
@@ -44,18 +51,11 @@
       <item value="Returns the standard name of the algorithm for this key pair generator. * See the KeyPairGenerator section in the &lt;a href= * &quot;{@docRoot}/../technotes/guides/security/StandardNames.html#KeyPairGenerator&quot;&gt; * Java Cryptography Architecture Standard Algorithm Name Documentation&lt;/a&gt; * for information about standard algorithm names." />
       <item value="String is not PEM encoded data" />
       <item value="Assert a boolean expression, throwing an {@code IllegalStateException} * if the expression evaluates to {@code false}. * &lt;p&gt;Call {@link #isTrue} if you wish to throw an {@code IllegalArgumentException} * on an assertion failure. * &lt;pre class=&quot;code&quot;&gt;Assert.state(id == null, &quot;The id property must not already be initialized&quot;);&lt;/pre&gt;" />
-      <item value="true if the raw password, after encoding, matches the encoded password from * storage" />
-      <item value="Verify the encoded password obtained from storage matches the submitted raw * password after it too is encoded. Returns true if the passwords match, false if * they do not. The stored password itself is never decoded." />
-      <item value="the hashed password" />
-      <item value="Returns the operations performed on hash values bound to the given key." />
-      <item value="raw Password" />
-      <item value="&lt;p&gt;Sort the {@link HistoricActivityInstance activity instances} in the order in which * they occurred (ie. started) and needs to be followed by {@link #asc()} or {@link #desc()}.&lt;/p&gt; * * &lt;p&gt;The set of all {@link HistoricActivityInstance activity instances} is a &lt;strong&gt;partially * ordered set&lt;/strong&gt;. At a BPMN level this means that instances of concurrent activities (example: * activities on different parallel branched after a parallel gateway) cannot be compared to each other. * Instances of activities which are part of happens-before relation at the BPMN level will be ordered * in respect to that relation.&lt;/p&gt; * * &lt;p&gt;Technically this means that {@link HistoricActivityInstance activity instances} * with different {@link HistoricActivityInstance#getExecutionId() execution ids} are * &lt;strong&gt;incomparable&lt;/strong&gt;. Only {@link HistoricActivityInstance activity instances} with * the same {@link HistoricActivityInstance#getExecutionId() execution id} can be &lt;strong&gt;totally * ordered&lt;/strong&gt; by using {@link #executionId(String)} and {@link #orderPartiallyByOccurrence()} * which will return a result set ordered by its occurrence.&lt;/p&gt;" />
-      <item value="Acknowledges the {@link ReceiverRecord} associated with this offset. The offset will be committed * automatically based on the commit configuration parameters {@link ReceiverOptions#commitInterval()} * and {@link ReceiverOptions#commitBatchSize()}. When an offset is acknowledged, it is assumed that * all records in this partition up to and including this offset have been processed. * All acknowledged offsets are committed if possible when the receiver {@link Flux} terminates." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
