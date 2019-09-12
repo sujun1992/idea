@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// The token store could remove the refresh token when the // access token is removed, but we want to // be sure..." />
+      <item value="Creates a new instance using the provided URL as the location for the JWK Set." />
+      <item value="A {@link TokenStore} implementation that provides support for verifying the * JSON Web Signature (JWS) for a JSON Web Token (JWT) using a JSON Web Key (JWK)." />
       <item value="807 Approvals (if any) should only be removed when Refresh Tokens are removed (or expired)" />
       <item value="The key used for verifying signatures produced by this class. This is not used but * is returned from the endpoint to allow resource servers to obtain the key." />
       <item value="Signing and verification RSA keys do not match" />
@@ -48,14 +51,11 @@
       <item value="Insufficient" />
       <item value="Loop Detected" />
       <item value="Loop" />
-      <item value="Detected" />
-      <item value="Extended" />
-      <item value="添加一个目标主机" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="308" />
+        <entry key="ENGLISH" value="309" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
