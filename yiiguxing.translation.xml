@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="signer for signing using an RSA private key" />
+      <item value="Utility that generates a random-value ASCII string." />
+      <item value="Helper that translates between JWT encoded token values and OAuth authentication * information (in both directions). Also acts as a {@link TokenEnhancer} when tokens are * granted." />
       <item value="Attempt to run as a different user" />
       <item value="@return &lt;code&gt;true&lt;/code&gt; if this &lt;code&gt;RunAsManager&lt;/code&gt; can support the passed * configuration attribute" />
       <item value="Attempt authorization" />
@@ -48,14 +51,11 @@
       <item value="The access token validity period in seconds" />
       <item value="The lifetime in seconds of the access token. For example, the value &quot;3600&quot; denotes that the access token will * expire in one hour from the time the response was generated. This value is OPTIONAL." />
       <item value="Emit the last element observed before complete signal as a {@link Mono}, or emit * {@link NoSuchElementException} error if the source was empty. * For a passive version use {@link #takeLast(int)}" />
-      <item value="Turn this {@link Flux} into a hot source and cache last emitted signals for further {@link Subscriber}. Will * retain an unbounded volume of onNext signals. Completion and Error will also be * replayed." />
-      <item value="Repeatedly take a value from this {@link Flux} then skip the values that follow * within a given duration. * * &lt;p&gt; * &lt;img class=&quot;marble&quot; src=&quot;doc-files/marbles/sampleFirstAtRegularInterval.svg&quot; alt=&quot;&quot;&gt;" />
-      <item value="maximum time period to wait for before raising a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="340" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="343" />
+        <entry key="ENGLISH" value="344" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
