@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="GatewayFilter that modifies the request body" />
+      <item value="This filter blocks the request, if the request size is more than the permissible size. * The default request size is 5 MB." />
       <item value="PAYMENT REQUIRED" />
       <item value="PROXY AUTHENTICATION REQUIRED" />
       <item value="PRECONDITION FAILED" />
@@ -49,13 +51,11 @@
       <item value="Specify that URLs are allowed by users that have been remembered." />
       <item value="Specify that URLs are allowed by anonymous users." />
       <item value="gh-807 Approvals (if any) should only be removed when Refresh Tokens are removed (or expired)" />
-      <item value="We don't want to accidentally issue a token, and we have no way to reconstruct the refresh token" />
-      <item value="// The token store could remove the refresh token when the // access token is removed, but we want to // be sure..." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="360" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="362" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
