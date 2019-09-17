@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Items to be included in the trace. Defaults to request headers (excluding * Authorization but including Cookie), response headers (including Set-Cookie), and * time taken." />
       <item value="Principal associated with an HTTP request-response exchange" />
       <item value="time Taken" />
       <item value="Flag to say that the repository lists traces in reverse order" />
@@ -50,12 +51,11 @@
       <item value="set Verifier Key" />
       <item value="set Signing Key" />
       <item value="Sets the JWT signing key. It can be either a simple MAC key or an RSA key. RSA keys * should be in OpenSSH format, as produced by &lt;tt&gt;ssh-keygen&lt;/tt&gt;." />
-      <item value="The key used for verifying signatures produced by this class. This is not used but * is returned from the endpoint to allow resource servers to obtain the key. * * For an HMAC key it will be the same value as the signing key and does not need to * be set. For and RSA key, it should be set to the String representation of the * public key, in a standard format (e.g. OpenSSH keys)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
