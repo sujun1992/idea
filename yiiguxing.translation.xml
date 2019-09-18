@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Public constant media type for" />
       <item value="GatewayFilter that modifies the request body" />
       <item value="This filter blocks the request, if the request size is more than the permissible size. * The default request size is 5 MB." />
       <item value="PAYMENT REQUIRED" />
@@ -50,12 +51,11 @@
       <item value="Specify that URLs are not allowed by anyone." />
       <item value="Specify that URLs are allowed by users that have been remembered." />
       <item value="Specify that URLs are allowed by anonymous users." />
-      <item value="gh-807 Approvals (if any) should only be removed when Refresh Tokens are removed (or expired)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="362" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="363" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
