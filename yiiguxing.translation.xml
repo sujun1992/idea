@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ScriptEngine that used JUEL for script evaluation and compilation (JSR-223)." />
+      <item value="Bindings implementation using an {@link ExecutionImpl} as 'back-end'" />
+      <item value="Returns a cached script engine or creates a new script engine if no such engine is currently cached" />
       <item value="Primitive Value" />
       <item value="decrypt" />
       <item value="Static factory methods for {@link BodyInserter} implementations." />
@@ -48,14 +51,11 @@
       <item value="Indicates whether the user is enabled or disabled. A disabled user cannot be * authenticated." />
       <item value="role should not start with 'ROLE_' since it is automatically inserted" />
       <item value="Specify that URLs require a particular authority." />
-      <item value="Shortcut for specifying URLs require a particular role. If you do not want to * have &quot;ROLE_&quot; automatically inserted see {@link #hasAuthority(String)}." />
-      <item value="Specify that URLs are allowed by users who have authenticated and were not * &quot;remembered&quot;." />
-      <item value="Specify that URLs are allowed by users who have authenticated and were not" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
