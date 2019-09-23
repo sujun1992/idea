@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="decrypt" />
       <item value="Static factory methods for {@link BodyInserter} implementations." />
       <item value="A function that can extract data from a {@link ReactiveHttpInputMessage} body." />
       <item value="A combination of functions that can populate a {@link ReactiveHttpOutputMessage} body." />
@@ -50,12 +51,11 @@
       <item value="Specify that URLs are allowed by users who have authenticated and were not * &quot;remembered&quot;." />
       <item value="Specify that URLs are allowed by users who have authenticated and were not" />
       <item value="Specify that URLs are allowed by any authenticated user." />
-      <item value="Specify that URLs are allowed by anyone." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="367" />
+        <entry key="ENGLISH" value="368" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
