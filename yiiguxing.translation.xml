@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="capacity" />
+      <item value="reverse" />
       <item value="regex to split by comma which does a positive look ahead to ignore commas enclosed in quotes" />
       <item value="List Transformer" />
       <item value="Defines property resolution behavior on objects using the JavaBeans component architecture. This * resolver handles base objects of any type, as long as the base is not null. It accepts any object * as a property, and coerces it to a string. That string is then used to find a JavaBeans compliant * property on the base object. The value is accessed using JavaBeans getters and setters. This * resolver can be constructed in read-only mode, which means that isReadOnly will always return * true and {@link #setValue(ELContext, Object, Object, Object)} will always throw * PropertyNotWritableException. ELResolvers are combined together using {@link CompositeELResolver} * s, to define rich semantics for evaluating an expression. See the javadocs for {@link ELResolver} * for details. Because this resolver handles base objects of any type, it should be placed near the * end of a composite resolver. Otherwise, it will claim to have resolved a property before any * resolvers that come after it get a chance to test if they can do so as well." />
@@ -49,13 +51,11 @@
       <item value="Standard implementation of {@code SecurityFilterChain}." />
       <item value="Commences an authentication scheme. * &lt;p&gt; * &lt;code&gt;ExceptionTranslationFilter&lt;/code&gt; will populate the &lt;code&gt;HttpSession&lt;/code&gt; * attribute named * &lt;code&gt;AbstractAuthenticationProcessingFilter.SPRING_SECURITY_SAVED_REQUEST_KEY&lt;/code&gt; * with the requested target URL before calling this method. * &lt;p&gt; * Implementations should modify the headers on the &lt;code&gt;ServletResponse&lt;/code&gt; as * necessary to commence the authentication process." />
       <item value="Used by {@link ExceptionTranslationFilter} to commence an authentication scheme." />
-      <item value="Processes a HTTP request's BASIC authorization headers, putting the result into the * &lt;code&gt;SecurityContextHolder&lt;/code&gt;." />
-      <item value="If the {@link SecurityConfigurer} has already been specified get the original, * otherwise apply the new {@link SecurityConfigurerAdapter}." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="376" />
-        <entry key="ENGLISH" value="377" />
+        <entry key="CHINESE" value="378" />
+        <entry key="ENGLISH" value="379" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
