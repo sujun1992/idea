@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Subscribe to this {@link Mono} and &lt;strong&gt;block indefinitely&lt;/strong&gt; until a next signal is * received. Returns that value, or null if the Mono completes empty. In case the Mono * errors, the original exception is thrown (wrapped in a {@link RuntimeException} if * it was a checked exception). * * &lt;p&gt; * &lt;img class=&quot;marble&quot; src=&quot;doc-files/marbles/block.svg&quot; alt=&quot;&quot;&gt; * &lt;p&gt; * Note that each block() will trigger a new subscription: in other words, the result * might miss signal from hot publishers." />
-      <item value="Note that each block() will trigger a new subscription: in other words, the result * might miss signal from hot publishers." />
       <item value="Subscribe to this {@link Mono} and &lt;strong&gt;block indefinitely&lt;/strong&gt; until a next signal is * received. Returns that value, or null if the Mono completes empty. In case the Mono * errors, the original exception is thrown (wrapped in a {@link RuntimeException} if * it was a checked exception)." />
+      <item value="Note that each block() will trigger a new subscription: in other words, the result * might miss signal from hot publishers." />
+      <item value="notify" />
+      <item value="Subscribe to this {@link Mono} and &lt;strong&gt;block indefinitely&lt;/strong&gt; until a next signal is * received. Returns that value, or null if the Mono completes empty. In case the Mono * errors, the original exception is thrown (wrapped in a {@link RuntimeException} if * it was a checked exception). * * &lt;p&gt; * &lt;img class=&quot;marble&quot; src=&quot;doc-files/marbles/block.svg&quot; alt=&quot;&quot;&gt; * &lt;p&gt; * Note that each block() will trigger a new subscription: in other words, the result * might miss signal from hot publishers." />
       <item value="Keep in mind that since the sequence can be asynchronous, this will immediately * return control to the calling thread. This can give the impression the consumer is * not invoked when executing in a main thread or a unit test for instance." />
       <item value="Cancel or dispose the underlying task or resource." />
       <item value="Perform the HTTP request and return a {@link ClientResponse} with the * response status and headers. You can then use methods of the response * to consume the body:" />
@@ -50,12 +51,11 @@
       <item value="Utility that generates a random-value ASCII string." />
       <item value="Helper that translates between JWT encoded token values and OAuth authentication * information (in both directions). Also acts as a {@link TokenEnhancer} when tokens are * granted." />
       <item value="Attempt to run as a different user" />
-      <item value="@return &lt;code&gt;true&lt;/code&gt; if this &lt;code&gt;RunAsManager&lt;/code&gt; can support the passed * configuration attribute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
