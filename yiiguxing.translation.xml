@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WebHandler that delegates to a chain of {@link GlobalFilter} instances and * {@link GatewayFilterFactory} instances then to the target {@link WebHandler}." />
+      <item value="ets the port of the management server, use {@code null} if the * {@link ServerProperties#getPort() server port} should be used. To disable use 0." />
       <item value="that can be used to create the body" />
       <item value="Whether this status code is in the HTTP series" />
       <item value="Public constant media type for {@code application/json;charset=UTF-8}." />
@@ -49,13 +51,11 @@
       <item value="Trace" />
       <item value="In Memory Http Trace Repository" />
       <item value="Convert the Map to JSON" />
-      <item value="decode" />
-      <item value="signer for signing using an RSA private key" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="393" />
-        <entry key="ENGLISH" value="394" />
+        <entry key="CHINESE" value="395" />
+        <entry key="ENGLISH" value="396" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
