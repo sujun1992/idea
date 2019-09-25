@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="that can be used to create the body" />
+      <item value="Whether this status code is in the HTTP series" />
+      <item value="Public constant media type for {@code application/json;charset=UTF-8}." />
       <item value="Subscribe to this {@link Mono} and &lt;strong&gt;block indefinitely&lt;/strong&gt; until a next signal is * received. Returns that value, or null if the Mono completes empty. In case the Mono * errors, the original exception is thrown (wrapped in a {@link RuntimeException} if * it was a checked exception)." />
       <item value="Note that each block() will trigger a new subscription: in other words, the result * might miss signal from hot publishers." />
       <item value="notify" />
@@ -48,14 +51,11 @@
       <item value="Convert the Map to JSON" />
       <item value="decode" />
       <item value="signer for signing using an RSA private key" />
-      <item value="Utility that generates a random-value ASCII string." />
-      <item value="Helper that translates between JWT encoded token values and OAuth authentication * information (in both directions). Also acts as a {@link TokenEnhancer} when tokens are * granted." />
-      <item value="Attempt to run as a different user" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="390" />
-        <entry key="ENGLISH" value="391" />
+        <entry key="CHINESE" value="393" />
+        <entry key="ENGLISH" value="394" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
