@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="wrap" />
+      <item value="Wrap the given {@code byte} array in a {@code DataBuffer}. Unlike * {@linkplain #allocateBuffer(int) allocating}, wrapping does not use new memory." />
+      <item value="his method should be automatically invoked at the end of message * processing so typically applications should not have to invoke it. * If invoked multiple times it should have no side effects." />
+      <item value="Indicate that message handling is complete, allowing for any cleanup or * end-of-processing tasks to be performed such as applying header changes * made via {@link #getHeaders()} to the underlying HTTP message (if not * applied already)." />
+      <item value="Use the given {@link Publisher} of {@code Publishers} to write the body * of the HttpOutputMessage to the underlying HTTP layer, flushing after * each {@code Publisher&lt;DataBuffer&gt;}." />
       <item value="Contract for specifying request headers leading up to the exchange" />
       <item value="WebHandler that delegates to a chain of {@link GlobalFilter} instances and * {@link GatewayFilterFactory} instances then to the target {@link WebHandler}." />
       <item value="ets the port of the management server, use {@code null} if the * {@link ServerProperties#getPort() server port} should be used. To disable use 0." />
@@ -46,16 +51,11 @@
       <item value="when used in pipeline / transaction." />
       <item value="Reactive Redis operations for simple (or in Redis terminology 'string') values." />
       <item value="Items to be included in the trace. Defaults to request headers (excluding * Authorization but including Cookie), response headers (including Set-Cookie), and * time taken." />
-      <item value="Principal associated with an HTTP request-response exchange" />
-      <item value="time Taken" />
-      <item value="Flag to say that the repository lists traces in reverse order" />
-      <item value="Trace" />
-      <item value="In Memory Http Trace Repository" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="396" />
-        <entry key="ENGLISH" value="397" />
+        <entry key="CHINESE" value="401" />
+        <entry key="ENGLISH" value="402" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
