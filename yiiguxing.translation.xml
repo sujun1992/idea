@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="if the subtree rooted at this node is a method invocation" />
+      <item value="transient" />
       <item value="wrap" />
       <item value="Wrap the given {@code byte} array in a {@code DataBuffer}. Unlike * {@linkplain #allocateBuffer(int) allocating}, wrapping does not use new memory." />
       <item value="his method should be automatically invoked at the end of message * processing so typically applications should not have to invoke it. * If invoked multiple times it should have no side effects." />
@@ -49,13 +51,11 @@
       <item value="DESTINATION LOCKED" />
       <item value="UNPROCESSABLE ENTITY" />
       <item value="when used in pipeline / transaction." />
-      <item value="Reactive Redis operations for simple (or in Redis terminology 'string') values." />
-      <item value="Items to be included in the trace. Defaults to request headers (excluding * Authorization but including Cookie), response headers (including Set-Cookie), and * time taken." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="401" />
-        <entry key="ENGLISH" value="402" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="404" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
