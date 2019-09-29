@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert" />
+      <item value="conver" />
       <item value="if this node is not a array value" />
       <item value="Get this node as list" />
       <item value="Get the field names of this node (i.e. the property names)" />
@@ -49,13 +51,11 @@
       <item value="GatewayFilter that modifies the request body" />
       <item value="This filter blocks the request, if the request size is more than the permissible size. * The default request size is 5 MB." />
       <item value="PAYMENT REQUIRED" />
-      <item value="PROXY AUTHENTICATION REQUIRED" />
-      <item value="PRECONDITION FAILED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
-        <entry key="ENGLISH" value="409" />
+        <entry key="CHINESE" value="410" />
+        <entry key="ENGLISH" value="411" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
