@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maps the wrapped object to a java object. * The object is determined based on the configuration string * which is data format specific" />
+      <item value="aps the wrapped object to a java object. * The object is determined based on the configuration string * which is data format specific" />
       <item value="convert" />
       <item value="conver" />
       <item value="if this node is not a array value" />
@@ -49,13 +51,11 @@
       <item value="@deprecated {@code SSLSocketFactory} does not expose its {@link X509TrustManager}, which is * a field that OkHttp needs to build a clean certificate chain. This method instead must * use reflection to extract the trust manager. Applications should prefer to call {@link * #sslSocketFactory(SSLSocketFactory, X509TrustManager)}, which avoids such reflection." />
       <item value="Public constant media type for" />
       <item value="GatewayFilter that modifies the request body" />
-      <item value="This filter blocks the request, if the request size is more than the permissible size. * The default request size is 5 MB." />
-      <item value="PAYMENT REQUIRED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="413" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
