@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Converts a JavaScript Object Notation (JSON) string into an object." />
+      <item value="Converts a JavaScript value to a JavaScript Object Notation (JSON) string." />
       <item value="This filter removes the first part of the path, known as the prefix, from the request * before sending it downstream." />
       <item value="Given the Map of variables, expands this template into a URI. The Map keys represent variable names, * the Map values variable values. The order of variables is not significant. * &lt;p&gt;Example: * &lt;pre class=&quot;code&quot;&gt; * UriTemplate template = new UriTemplate(&quot;http://example.com/hotels/{hotel}/bookings/{booking}&quot;); * Map&amp;lt;String, String&amp;gt; uriVariables = new HashMap&amp;lt;String, String&amp;gt;(); * uriVariables.put(&quot;booking&quot;, &quot;42&quot;); * uriVariables.put(&quot;hotel&quot;, &quot;Rest &amp; Relax&quot;); * System.out.println(template.expand(uriVariables)); * &lt;/pre&gt;" />
       <item value="Returns the decoded user-information component of this URI. * * &lt;p&gt; The string returned by this method is equal to that returned by the * {@link #getRawUserInfo() getRawUserInfo} method except that all * sequences of escaped octets are &lt;a href=&quot;#decode&quot;&gt;decoded&lt;/a&gt;. &lt;/p&gt;" />
@@ -49,13 +51,11 @@
       <item value="retrieve" />
       <item value="Provides access to every header declared so far with the possibility * to add, replace, or remove values." />
       <item value="capacity" />
-      <item value="reverse" />
-      <item value="regex to split by comma which does a positive look ahead to ignore commas enclosed in quotes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="427" />
-        <entry key="ENGLISH" value="428" />
+        <entry key="CHINESE" value="429" />
+        <entry key="ENGLISH" value="430" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
