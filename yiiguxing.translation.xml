@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the decoded user-information component of this URI. * * &lt;p&gt; The string returned by this method is equal to that returned by the * {@link #getRawUserInfo() getRawUserInfo} method except that all * sequences of escaped octets are &lt;a href=&quot;#decode&quot;&gt;decoded&lt;/a&gt;. &lt;/p&gt;" />
+      <item value="Get the order value of this object. * &lt;p&gt;Higher values are interpreted as lower priority. As a consequence, * the object with the lowest value has the highest priority (somewhat * analogous to Servlet {@code load-on-startup} values). * &lt;p&gt;Same order values will result in arbitrary sort positions for the * affected objects." />
       <item value="Create a builder that is initialized with the given" />
       <item value="Verify if it is really fully encoded. Treat partial encoded as uncoded" />
       <item value="Predicate that reads the body and applies a user provided predicate to run on the body. * The body is cached in memory so that possible subsequent calls to the predicate do not * need to deserialize again." />
@@ -49,13 +51,11 @@
       <item value="regex to split by comma which does a positive look ahead to ignore commas enclosed in quotes" />
       <item value="List Transformer" />
       <item value="Defines property resolution behavior on objects using the JavaBeans component architecture. This * resolver handles base objects of any type, as long as the base is not null. It accepts any object * as a property, and coerces it to a string. That string is then used to find a JavaBeans compliant * property on the base object. The value is accessed using JavaBeans getters and setters. This * resolver can be constructed in read-only mode, which means that isReadOnly will always return * true and {@link #setValue(ELContext, Object, Object, Object)} will always throw * PropertyNotWritableException. ELResolvers are combined together using {@link CompositeELResolver} * s, to define rich semantics for evaluating an expression. See the javadocs for {@link ELResolver} * for details. Because this resolver handles base objects of any type, it should be placed near the * end of a composite resolver. Otherwise, it will claim to have resolved a property before any * resolvers that come after it get a chance to test if they can do so as well." />
-      <item value="A script which is provided as source code" />
-      <item value="evaluate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="423" />
-        <entry key="ENGLISH" value="424" />
+        <entry key="CHINESE" value="425" />
+        <entry key="ENGLISH" value="426" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
