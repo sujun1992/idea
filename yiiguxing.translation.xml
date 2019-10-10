@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Ends the tracing of the exchange that is being concluded by sending the given" />
+      <item value="Register an action to apply just before the HttpOutputMessage is committed. * &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; the supplied action must be properly deferred, * e.g. via {@link Mono#defer} or {@link Mono#fromRunnable}, to ensure it's * executed in the right order, relative to other actions." />
       <item value="Converts a JavaScript Object Notation (JSON) string into an object." />
       <item value="Converts a JavaScript value to a JavaScript Object Notation (JSON) string." />
       <item value="This filter removes the first part of the path, known as the prefix, from the request * before sending it downstream." />
@@ -49,13 +51,11 @@
       <item value="Perform the HTTP request and return a {@link ClientResponse} with the * response status and headers. You can then use methods of the response * to consume the body:" />
       <item value="Provides access to every attribute declared so far with the * possibility to add, replace, or remove values." />
       <item value="retrieve" />
-      <item value="Provides access to every header declared so far with the possibility * to add, replace, or remove values." />
-      <item value="capacity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="429" />
-        <entry key="ENGLISH" value="430" />
+        <entry key="CHINESE" value="431" />
+        <entry key="ENGLISH" value="432" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
