@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="duration" />
+      <item value="span" />
+      <item value="trace" />
       <item value="Return the request attribute value if present" />
       <item value="Precondition Required" />
       <item value="Upgrade Required" />
@@ -48,14 +51,11 @@
       <item value="Indicate that message handling is complete, allowing for any cleanup or * end-of-processing tasks to be performed such as applying header changes * made via {@link #getHeaders()} to the underlying HTTP message (if not * applied already)." />
       <item value="Use the given {@link Publisher} of {@code Publishers} to write the body * of the HttpOutputMessage to the underlying HTTP layer, flushing after * each {@code Publisher&lt;DataBuffer&gt;}." />
       <item value="Contract for specifying request headers leading up to the exchange" />
-      <item value="WebHandler that delegates to a chain of {@link GlobalFilter} instances and * {@link GatewayFilterFactory} instances then to the target {@link WebHandler}." />
-      <item value="ets the port of the management server, use {@code null} if the * {@link ServerProperties#getPort() server port} should be used. To disable use 0." />
-      <item value="that can be used to create the body" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="442" />
-        <entry key="ENGLISH" value="443" />
+        <entry key="CHINESE" value="445" />
+        <entry key="ENGLISH" value="446" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
