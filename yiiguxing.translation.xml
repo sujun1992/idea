@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Modified" />
       <item value="duration" />
       <item value="span" />
       <item value="trace" />
@@ -50,12 +51,11 @@
       <item value="his method should be automatically invoked at the end of message * processing so typically applications should not have to invoke it. * If invoked multiple times it should have no side effects." />
       <item value="Indicate that message handling is complete, allowing for any cleanup or * end-of-processing tasks to be performed such as applying header changes * made via {@link #getHeaders()} to the underlying HTTP message (if not * applied already)." />
       <item value="Use the given {@link Publisher} of {@code Publishers} to write the body * of the HttpOutputMessage to the underlying HTTP layer, flushing after * each {@code Publisher&lt;DataBuffer&gt;}." />
-      <item value="Contract for specifying request headers leading up to the exchange" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="445" />
-        <entry key="ENGLISH" value="446" />
+        <entry key="CHINESE" value="446" />
+        <entry key="ENGLISH" value="447" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
