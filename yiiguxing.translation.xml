@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decrements the count of the latch, releasing all waiting threads if * the count reaches zero" />
       <item value="determining" />
       <item value="We don't want a hard dependency on Redis to allow traffic. Make sure to set * an alert so you know if this is happening too much. Stripe's observed * failure rate is 0.01%" />
       <item value="Modified" />
@@ -50,12 +51,11 @@
       <item value="transient" />
       <item value="wrap" />
       <item value="Wrap the given {@code byte} array in a {@code DataBuffer}. Unlike * {@linkplain #allocateBuffer(int) allocating}, wrapping does not use new memory." />
-      <item value="his method should be automatically invoked at the end of message * processing so typically applications should not have to invoke it. * If invoked multiple times it should have no side effects." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="449" />
+        <entry key="ENGLISH" value="450" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
