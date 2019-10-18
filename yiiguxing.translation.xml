@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This annotation can be used when deeper Spring integration is required, but at the * expense of portability. Most users should prefer the {@link Endpoint @Endpoint} or * {@link WebEndpoint @WebEndpoint} annotations whenever possible." />
+      <item value="Identifies a type as being a REST endpoint that is only exposed over Spring MVC or * Spring WebFlux. Mapped methods must be annotated with {@link GetMapping @GetMapping}, * {@link PostMapping @PostMapping}, {@link DeleteMapping @DeleteMapping}, etc annotations * rather than {@link ReadOperation @ReadOperation}, * {@link WriteOperation @WriteOperation}, {@link DeleteOperation @DeleteOperation}." />
       <item value="Decrements the count of the latch, releasing all waiting threads if * the count reaches zero" />
       <item value="determining" />
       <item value="We don't want a hard dependency on Redis to allow traffic. Make sure to set * an alert so you know if this is happening too much. Stripe's observed * failure rate is 0.01%" />
@@ -49,13 +51,11 @@
       <item value="Fetches the node from the result of JsonPath" />
       <item value="if the subtree rooted at this node is a method invocation" />
       <item value="transient" />
-      <item value="wrap" />
-      <item value="Wrap the given {@code byte} array in a {@code DataBuffer}. Unlike * {@linkplain #allocateBuffer(int) allocating}, wrapping does not use new memory." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="449" />
-        <entry key="ENGLISH" value="450" />
+        <entry key="CHINESE" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
