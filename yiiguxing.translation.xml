@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Network Authentication Required" />
       <item value="This annotation can be used when deeper Spring integration is required, but at the * expense of portability. Most users should prefer the {@link Endpoint @Endpoint} or * {@link WebEndpoint @WebEndpoint} annotations whenever possible." />
       <item value="Identifies a type as being a REST endpoint that is only exposed over Spring MVC or * Spring WebFlux. Mapped methods must be annotated with {@link GetMapping @GetMapping}, * {@link PostMapping @PostMapping}, {@link DeleteMapping @DeleteMapping}, etc annotations * rather than {@link ReadOperation @ReadOperation}, * {@link WriteOperation @WriteOperation}, {@link DeleteOperation @DeleteOperation}." />
       <item value="Decrements the count of the latch, releasing all waiting threads if * the count reaches zero" />
@@ -50,7 +51,6 @@
       <item value="Creates a JsonPath query on this element" />
       <item value="Fetches the node from the result of JsonPath" />
       <item value="if the subtree rooted at this node is a method invocation" />
-      <item value="transient" />
     </histories>
     <option name="languageScores">
       <map>
