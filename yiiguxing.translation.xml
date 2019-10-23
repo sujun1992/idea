@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the number of milliseconds, positive or negative" />
       <item value="Execute the HTTP method to the given URI template, writing the given request entity to the request, and * returns the response as {@link ResponseEntity}." />
       <item value="Network Authentication Required" />
       <item value="This annotation can be used when deeper Spring integration is required, but at the * expense of portability. Most users should prefer the {@link Endpoint @Endpoint} or * {@link WebEndpoint @WebEndpoint} annotations whenever possible." />
@@ -50,12 +51,11 @@
       <item value="Get this node as list" />
       <item value="Get the field names of this node (i.e. the property names)" />
       <item value="Creates a JsonPath query on this element" />
-      <item value="Fetches the node from the result of JsonPath" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="452" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="CHINESE" value="453" />
+        <entry key="ENGLISH" value="454" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
