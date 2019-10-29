@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the text content of the DOM element without leading and trailing spaces" />
+      <item value="Returns the raw text content of the DOM element including all whitespaces" />
       <item value="the number of milliseconds, positive or negative" />
       <item value="Execute the HTTP method to the given URI template, writing the given request entity to the request, and * returns the response as {@link ResponseEntity}." />
       <item value="Network Authentication Required" />
@@ -49,8 +51,6 @@
       <item value="conver" />
       <item value="if this node is not a array value" />
       <item value="Get this node as list" />
-      <item value="Get the field names of this node (i.e. the property names)" />
-      <item value="Creates a JsonPath query on this element" />
     </histories>
     <option name="languageScores">
       <map>
