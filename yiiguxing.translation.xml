@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="mapping established via an annotation or by previous call to this method," />
+      <item value="If a URL pattern of this ServletRegistration is neither the exact target of a security constraint that was established via the ServletSecurity annotation or a previous call to this method, nor the exact target of a security-constraint in the portable deployment descriptor, then this method establishes the security constraint for that pattern from the argument ServletSecurityElement" />
+      <item value="Interface through which a {@link Servlet} registered via one of the * &lt;tt&gt;addServlet&lt;/tt&gt; methods on {@link ServletContext} may be further * configured." />
       <item value="Sets the server header value" />
       <item value="Returns the text content of the DOM element without leading and trailing spaces" />
       <item value="Returns the raw text content of the DOM element including all whitespaces" />
@@ -48,14 +51,11 @@
       <item value="Maps the internal representation of a data format to a java object of the * desired class. The type identifier is given in a data format specific format. Its * interpretation is data-format-specific. For example, it can be used to express generic * type information that cannot be expressed by a {@link Class} object." />
       <item value="Maps the wrapped object to a java object. * The object is determined based on the configuration string * which is data format specific" />
       <item value="aps the wrapped object to a java object. * The object is determined based on the configuration string * which is data format specific" />
-      <item value="convert" />
-      <item value="conver" />
-      <item value="if this node is not a array value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="454" />
-        <entry key="ENGLISH" value="455" />
+        <entry key="CHINESE" value="457" />
+        <entry key="ENGLISH" value="458" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
