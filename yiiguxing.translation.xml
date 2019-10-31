@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cycle" />
       <item value="Whether to dispatch TRACE requests to the FrameworkServlet doService method" />
       <item value="mapping established via an annotation or by previous call to this method," />
       <item value="If a URL pattern of this ServletRegistration is neither the exact target of a security constraint that was established via the ServletSecurity annotation or a previous call to this method, nor the exact target of a security-constraint in the portable deployment descriptor, then this method establishes the security constraint for that pattern from the argument ServletSecurityElement" />
@@ -50,12 +51,11 @@
       <item value="Base class for type token classes used both to contain information * and as keys for deserializers" />
       <item value="Maps the json represented by this object to a java object of the given type. * Argument is to be supplied in Jackson's canonical type string format * (see {@link JavaType#toCanonical()})." />
       <item value="Maps the internal representation of a data format to a java object of the * desired class. The type identifier is given in a data format specific format. Its * interpretation is data-format-specific. For example, it can be used to express generic * type information that cannot be expressed by a {@link Class} object." />
-      <item value="Maps the wrapped object to a java object. * The object is determined based on the configuration string * which is data format specific" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="459" />
+        <entry key="ENGLISH" value="460" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
