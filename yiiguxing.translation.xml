@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="It is not recommended to use a intermediate catch timer event with a time cycle" />
+      <item value="malformed" />
       <item value="cycle" />
       <item value="Whether to dispatch TRACE requests to the FrameworkServlet doService method" />
       <item value="mapping established via an annotation or by previous call to this method," />
@@ -49,13 +51,11 @@
       <item value="coerce" />
       <item value="if the json representation cannot be mapped to the specified type" />
       <item value="Base class for type token classes used both to contain information * and as keys for deserializers" />
-      <item value="Maps the json represented by this object to a java object of the given type. * Argument is to be supplied in Jackson's canonical type string format * (see {@link JavaType#toCanonical()})." />
-      <item value="Maps the internal representation of a data format to a java object of the * desired class. The type identifier is given in a data format specific format. Its * interpretation is data-format-specific. For example, it can be used to express generic * type information that cannot be expressed by a {@link Class} object." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="461" />
+        <entry key="ENGLISH" value="462" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
