@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Converts this instant to the number of milliseconds from the epoch * of 1970-01-01T00:00:00Z." />
+      <item value="Converts this instant to the number of milliseconds from the epoch" />
       <item value="Indicator for transience of the value" />
       <item value="which a serialized value can be obtained and specified" />
       <item value="If you have a process instance hierarchy, activating * one process instance from the hierarchy will not activate other * process instances from that hierarchy" />
@@ -49,13 +51,11 @@
       <item value="Create a builder that is initialized with the given" />
       <item value="Verify if it is really fully encoded. Treat partial encoded as uncoded" />
       <item value="Predicate that reads the body and applies a user provided predicate to run on the body. * The body is cached in memory so that possible subsequent calls to the predicate do not * need to deserialize again." />
-      <item value="tc apply approval" />
-      <item value="Registers an editor class to edit values of the given target class. * If the editor class is {@code null}, * then any existing definition will be removed. * Thus this method can be used to cancel the registration. * The registration is canceled automatically * if either the target or editor class is unloaded." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="465" />
-        <entry key="ENGLISH" value="466" />
+        <entry key="CHINESE" value="467" />
+        <entry key="ENGLISH" value="468" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
