@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Execute the HTTP method to the given URI template, writing the given request entity to the request, and * returns the response as {@link ResponseEntity}." />
       <item value="Converts this instant to the number of milliseconds from the epoch * of 1970-01-01T00:00:00Z." />
       <item value="Converts this instant to the number of milliseconds from the epoch" />
       <item value="Indicator for transience of the value" />
@@ -18,7 +19,6 @@
       <item value="Returns the text content of the DOM element without leading and trailing spaces" />
       <item value="Returns the raw text content of the DOM element including all whitespaces" />
       <item value="the number of milliseconds, positive or negative" />
-      <item value="Execute the HTTP method to the given URI template, writing the given request entity to the request, and * returns the response as {@link ResponseEntity}." />
       <item value="Network Authentication Required" />
       <item value="This annotation can be used when deeper Spring integration is required, but at the * expense of portability. Most users should prefer the {@link Endpoint @Endpoint} or * {@link WebEndpoint @WebEndpoint} annotations whenever possible." />
       <item value="Identifies a type as being a REST endpoint that is only exposed over Spring MVC or * Spring WebFlux. Mapped methods must be annotated with {@link GetMapping @GetMapping}, * {@link PostMapping @PostMapping}, {@link DeleteMapping @DeleteMapping}, etc annotations * rather than {@link ReadOperation @ReadOperation}, * {@link WriteOperation @WriteOperation}, {@link DeleteOperation @DeleteOperation}." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="467" />
-        <entry key="ENGLISH" value="468" />
+        <entry key="CHINESE" value="468" />
+        <entry key="ENGLISH" value="469" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
