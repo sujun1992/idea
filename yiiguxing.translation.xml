@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="milliseconds" />
       <item value="Return the HTTP status code (potentially non-standard and not * resolvable through the {@link HttpStatus} enum) as an integer." />
       <item value="Execute the HTTP method to the given URI template, writing the given request entity to the request, and * returns the response as {@link ResponseEntity}." />
       <item value="Converts this instant to the number of milliseconds from the epoch * of 1970-01-01T00:00:00Z." />
@@ -50,12 +51,11 @@
       <item value="Returns the decoded user-information component of this URI. * * &lt;p&gt; The string returned by this method is equal to that returned by the * {@link #getRawUserInfo() getRawUserInfo} method except that all * sequences of escaped octets are &lt;a href=&quot;#decode&quot;&gt;decoded&lt;/a&gt;. &lt;/p&gt;" />
       <item value="Get the order value of this object. * &lt;p&gt;Higher values are interpreted as lower priority. As a consequence, * the object with the lowest value has the highest priority (somewhat * analogous to Servlet {@code load-on-startup} values). * &lt;p&gt;Same order values will result in arbitrary sort positions for the * affected objects." />
       <item value="Create a builder that is initialized with the given" />
-      <item value="Verify if it is really fully encoded. Treat partial encoded as uncoded" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="469" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="CHINESE" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
