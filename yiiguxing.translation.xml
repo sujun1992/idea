@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Trusted certificates for verifying the remote endpoint's certificate" />
+      <item value="Installs the netty InsecureTrustManagerFactory. This is insecure and not * suitable for production." />
       <item value="Defines property resolution behavior on objects using the JavaBeans component architecture. This * resolver handles base objects of any type, as long as the base is not null. It accepts any object * as a property, and coerces it to a string. That string is then used to find a JavaBeans compliant * property on the base object. The value is accessed using JavaBeans getters and setters. This * resolver can be constructed in read-only mode, which means that isReadOnly will always return * true and {@link #setValue(ELContext, Object, Object, Object)} will always throw * PropertyNotWritableException. ELResolvers are combined together using {@link CompositeELResolver} * s, to define rich semantics for evaluating an expression. See the javadocs for {@link ELResolver} * for details. Because this resolver handles base objects of any type, it should be placed near the * end of a composite resolver. Otherwise, it will claim to have resolved a property before any * resolvers that come after it get a chance to test if they can do so as well." />
       <item value="milliseconds" />
       <item value="Return the HTTP status code (potentially non-standard and not * resolvable through the {@link HttpStatus} enum) as an integer." />
@@ -49,13 +51,11 @@
       <item value="Converts a JavaScript value to a JavaScript Object Notation (JSON) string." />
       <item value="This filter removes the first part of the path, known as the prefix, from the request * before sending it downstream." />
       <item value="Given the Map of variables, expands this template into a URI. The Map keys represent variable names, * the Map values variable values. The order of variables is not significant. * &lt;p&gt;Example: * &lt;pre class=&quot;code&quot;&gt; * UriTemplate template = new UriTemplate(&quot;http://example.com/hotels/{hotel}/bookings/{booking}&quot;); * Map&amp;lt;String, String&amp;gt; uriVariables = new HashMap&amp;lt;String, String&amp;gt;(); * uriVariables.put(&quot;booking&quot;, &quot;42&quot;); * uriVariables.put(&quot;hotel&quot;, &quot;Rest &amp; Relax&quot;); * System.out.println(template.expand(uriVariables)); * &lt;/pre&gt;" />
-      <item value="Returns the decoded user-information component of this URI. * * &lt;p&gt; The string returned by this method is equal to that returned by the * {@link #getRawUserInfo() getRawUserInfo} method except that all * sequences of escaped octets are &lt;a href=&quot;#decode&quot;&gt;decoded&lt;/a&gt;. &lt;/p&gt;" />
-      <item value="Get the order value of this object. * &lt;p&gt;Higher values are interpreted as lower priority. As a consequence, * the object with the lowest value has the highest priority (somewhat * analogous to Servlet {@code load-on-startup} values). * &lt;p&gt;Same order values will result in arbitrary sort positions for the * affected objects." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="471" />
-        <entry key="ENGLISH" value="472" />
+        <entry key="CHINESE" value="473" />
+        <entry key="ENGLISH" value="474" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
