@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="the flag to enable the priority fetching mechanism" />
       <item value="Trusted certificates for verifying the remote endpoint's certificate" />
       <item value="Installs the netty InsecureTrustManagerFactory. This is insecure and not * suitable for production." />
       <item value="Defines property resolution behavior on objects using the JavaBeans component architecture. This * resolver handles base objects of any type, as long as the base is not null. It accepts any object * as a property, and coerces it to a string. That string is then used to find a JavaBeans compliant * property on the base object. The value is accessed using JavaBeans getters and setters. This * resolver can be constructed in read-only mode, which means that isReadOnly will always return * true and {@link #setValue(ELContext, Object, Object, Object)} will always throw * PropertyNotWritableException. ELResolvers are combined together using {@link CompositeELResolver} * s, to define rich semantics for evaluating an expression. See the javadocs for {@link ELResolver} * for details. Because this resolver handles base objects of any type, it should be placed near the * end of a composite resolver. Otherwise, it will claim to have resolved a property before any * resolvers that come after it get a chance to test if they can do so as well." />
@@ -50,12 +51,11 @@
       <item value="Converts a JavaScript Object Notation (JSON) string into an object." />
       <item value="Converts a JavaScript value to a JavaScript Object Notation (JSON) string." />
       <item value="This filter removes the first part of the path, known as the prefix, from the request * before sending it downstream." />
-      <item value="Given the Map of variables, expands this template into a URI. The Map keys represent variable names, * the Map values variable values. The order of variables is not significant. * &lt;p&gt;Example: * &lt;pre class=&quot;code&quot;&gt; * UriTemplate template = new UriTemplate(&quot;http://example.com/hotels/{hotel}/bookings/{booking}&quot;); * Map&amp;lt;String, String&amp;gt; uriVariables = new HashMap&amp;lt;String, String&amp;gt;(); * uriVariables.put(&quot;booking&quot;, &quot;42&quot;); * uriVariables.put(&quot;hotel&quot;, &quot;Rest &amp; Relax&quot;); * System.out.println(template.expand(uriVariables)); * &lt;/pre&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="473" />
-        <entry key="ENGLISH" value="474" />
+        <entry key="CHINESE" value="474" />
+        <entry key="ENGLISH" value="475" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
