@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Timeout for complete connection establishment (non-negative, * in milliseconds). Zero means no timeout. The timeout counts from the * moment you invoke the connect() method and is cancelled as soon as the * first key-exchange round has finished. It is possible that * the timeout event will be fired during the invocation of the * &lt;code&gt;verifier&lt;/code&gt; callback, but it will only have an effect after * the &lt;code&gt;verifier&lt;/code&gt; returns." />
       <item value="Connect the underlying TCP socket to the server with the given timeout * value (non-negative, in milliseconds). Zero means no timeout." />
       <item value="Connect to the SSH-2 server and, as soon as the server has presented its * host key, use the {@link ServerHostKeyVerifier#verifyServerHostKey(String, * int, String, byte[]) ServerHostKeyVerifier.verifyServerHostKey()} * method of the &lt;code&gt;verifier&lt;/code&gt; to ask for permission to proceed. * If &lt;code&gt;verifier&lt;/code&gt; is &lt;code&gt;null&lt;/code&gt;, then any host key will be * accepted - this is NOT recommended, since it makes man-in-the-middle attackes * VERY easy (somebody could put a proxy SSH server between you and the real server). * &lt;p/&gt; * Note: The verifier will be called before doing any crypto calculations * (i.e., diffie-hellman). Therefore, if you don't like the presented host key then * no CPU cycles are wasted (and the evil server has less information about us). * &lt;p/&gt; * However, it is still possible that the server presented a fake host key: the server * cheated (typically a sign for a man-in-the-middle attack) and is not able to generate * a signature that matches its host key. Don't worry, the library will detect such * a scenario later when checking the signature (the signature cannot be checked before * having completed the diffie-hellman exchange)." />
       <item value="Allocate a pseudo-terminal for this session." />
@@ -50,12 +51,11 @@
       <item value="enriched headers, but users can add stuff after this if they want to" />
       <item value="Return a builder to mutate properties of this exchange by wrapping it" />
       <item value="Ends the tracing of the exchange that is being concluded by sending the given" />
-      <item value="Register an action to apply just before the HttpOutputMessage is committed. * &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; the supplied action must be properly deferred, * e.g. via {@link Mono#defer} or {@link Mono#fromRunnable}, to ensure it's * executed in the right order, relative to other actions." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
-        <entry key="ENGLISH" value="479" />
+        <entry key="CHINESE" value="479" />
+        <entry key="ENGLISH" value="480" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
