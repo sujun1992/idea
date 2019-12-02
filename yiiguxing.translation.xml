@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Allocate a pseudo-terminal for this session." />
       <item value="the flag to enable the priority fetching mechanism" />
       <item value="Trusted certificates for verifying the remote endpoint's certificate" />
       <item value="Installs the netty InsecureTrustManagerFactory. This is insecure and not * suitable for production." />
@@ -50,12 +51,11 @@
       <item value="Register an action to apply just before the HttpOutputMessage is committed. * &lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; the supplied action must be properly deferred, * e.g. via {@link Mono#defer} or {@link Mono#fromRunnable}, to ensure it's * executed in the right order, relative to other actions." />
       <item value="Converts a JavaScript Object Notation (JSON) string into an object." />
       <item value="Converts a JavaScript value to a JavaScript Object Notation (JSON) string." />
-      <item value="This filter removes the first part of the path, known as the prefix, from the request * before sending it downstream." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="474" />
-        <entry key="ENGLISH" value="475" />
+        <entry key="CHINESE" value="475" />
+        <entry key="ENGLISH" value="476" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
