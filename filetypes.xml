@@ -1,8 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="CSCF_V500R012C00SPC200_FS_EVS_4NIC_DEPLOYMENT" type="PLAIN_TEXT" />
       <mapping ext="grammar" type="PLAIN_TEXT" />
       <mapping ext="fetchandlockhandler" type="PLAIN_TEXT" />
