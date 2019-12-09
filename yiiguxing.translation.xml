@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Set the {@link ClientHttpRequestFactory} class that should be used with the * {@link RestTemplate}. * @param requestFactory the request factory to use * @return a new builder instance" />
+      <item value="Represents a supplier of results." />
       <item value="The ISO-like date-time formatter that formats or parses a date-time with * the offset and zone if available, such as '2011-12-03T10:15:30', * '2011-12-03T10:15:30+01:00' or '2011-12-03T10:15:30+01:00[Europe/Paris]'." />
       <item value="Add additional {@link HttpMessageConverter HttpMessageConverters} that should be * used with the {@link RestTemplate}. Any converters configured on the builder will * replace RestTemplate's default converters." />
       <item value="Naming convention used in languages like C, where words are in lower-case * letters, separated by underscores. * See {@link SnakeCaseStrategy} for details. * * @since 2.7 (was formerly called {@link #CAMEL_CASE_TO_LOWER_CASE_WITH_UNDERSCORES})" />
@@ -49,13 +51,11 @@
       <item value="Precondition Required" />
       <item value="Upgrade Required" />
       <item value="Upgrade" />
-      <item value="Only select historic activity instances for activities with the given activity type" />
-      <item value="Only select historic activity instances that complete a BPMN scope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="488" />
+        <entry key="ENGLISH" value="489" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
