@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configure Gson to serialize null fields. By default, Gson omits all fields that are null * during serialization." />
       <item value="Set the {@link ClientHttpRequestFactory} class that should be used with the * {@link RestTemplate}. * @param requestFactory the request factory to use * @return a new builder instance" />
       <item value="Represents a supplier of results." />
       <item value="The ISO-like date-time formatter that formats or parses a date-time with * the offset and zone if available, such as '2011-12-03T10:15:30', * '2011-12-03T10:15:30+01:00' or '2011-12-03T10:15:30+01:00[Europe/Paris]'." />
@@ -50,12 +51,11 @@
       <item value="Return the request attribute value if present" />
       <item value="Precondition Required" />
       <item value="Upgrade Required" />
-      <item value="Upgrade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="488" />
-        <entry key="ENGLISH" value="489" />
+        <entry key="CHINESE" value="489" />
+        <entry key="ENGLISH" value="490" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
