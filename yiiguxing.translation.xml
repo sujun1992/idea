@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="he quote character to be used when writing a CSV file" />
       <item value="If this is anything but an empty string, it will be used as a regular * expression to extract part of the input before conversion to the bean * field." />
       <item value="Defines the locale to be used for decoding the argument." />
       <item value="If not specified, the name of the column must be identical to the name * of the field." />
@@ -50,12 +51,11 @@
       <item value="Returns the raw text content of the DOM element including all whitespaces" />
       <item value="the number of milliseconds, positive or negative" />
       <item value="Network Authentication Required" />
-      <item value="This annotation can be used when deeper Spring integration is required, but at the * expense of portability. Most users should prefer the {@link Endpoint @Endpoint} or * {@link WebEndpoint @WebEndpoint} annotations whenever possible." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="500" />
-        <entry key="ENGLISH" value="501" />
+        <entry key="CHINESE" value="501" />
+        <entry key="ENGLISH" value="502" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
