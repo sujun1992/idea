@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create variable scope for output parameters" />
+      <item value="Dispatches the current delayed variable events and performs the given atomic operation * if the current state was not changed." />
       <item value="he quote character to be used when writing a CSV file" />
       <item value="If this is anything but an empty string, it will be used as a regular * expression to extract part of the input before conversion to the bean * field." />
       <item value="Defines the locale to be used for decoding the argument." />
@@ -49,13 +51,11 @@
       <item value="Sets the server header value" />
       <item value="Returns the text content of the DOM element without leading and trailing spaces" />
       <item value="Returns the raw text content of the DOM element including all whitespaces" />
-      <item value="the number of milliseconds, positive or negative" />
-      <item value="Network Authentication Required" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="501" />
-        <entry key="ENGLISH" value="502" />
+        <entry key="CHINESE" value="503" />
+        <entry key="ENGLISH" value="504" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
