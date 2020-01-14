@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="The resulting string may vary depending on the platform's * default encoding. Instead, use the encode(String,String) * method to specify the encoding" />
       <item value="Decrement an integer value stored as string value under {@code key} by one." />
       <item value="decrement" />
       <item value="set If Present" />
@@ -50,12 +51,11 @@
       <item value="If you have a process instance hierarchy, activating * one process instance from the hierarchy will not activate other * process instances from that hierarchy" />
       <item value="Activates the process instance with the given id" />
       <item value="It is not recommended to use a intermediate catch timer event with a time cycle" />
-      <item value="malformed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="511" />
-        <entry key="ENGLISH" value="512" />
+        <entry key="CHINESE" value="512" />
+        <entry key="ENGLISH" value="513" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
