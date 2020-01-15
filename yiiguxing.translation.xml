@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Provides access to the snapshot of latest variables of an execution." />
+      <item value="Contains observers which are observe the execution." />
+      <item value="persisted reference to the super case execution of this execution" />
+      <item value="fire Historic Activity Instance Update" />
+      <item value="Dispatches the current delayed variable events and performs the given atomic operation * if the current state was not changed." />
+      <item value="efault way of leaving a BPMN 2.0 activity: evaluate the conditions on the * outgoing sequence flow and take those that evaluate to true." />
       <item value="The resulting string may vary depending on the platform's * default encoding. Instead, use the encode(String,String) * method to specify the encoding" />
       <item value="Decrement an integer value stored as string value under {@code key} by one." />
       <item value="decrement" />
@@ -11,7 +17,6 @@
       <item value="has default methods (made * possible by a Java 8 baseline) and can be implemented directly without the * need for this adapter" />
       <item value="The history level controls what kind of data is logged to the history database. * More formally, it controls which history events are produced by the {@link HistoryEventProducer}.&lt;/p&gt;" />
       <item value="create variable scope for output parameters" />
-      <item value="Dispatches the current delayed variable events and performs the given atomic operation * if the current state was not changed." />
       <item value="he quote character to be used when writing a CSV file" />
       <item value="If this is anything but an empty string, it will be used as a regular * expression to extract part of the input before conversion to the bean * field." />
       <item value="Defines the locale to be used for decoding the argument." />
@@ -46,16 +51,11 @@
       <item value="Execute the HTTP method to the given URI template, writing the given request entity to the request, and * returns the response as {@link ResponseEntity}." />
       <item value="Converts this instant to the number of milliseconds from the epoch * of 1970-01-01T00:00:00Z." />
       <item value="Converts this instant to the number of milliseconds from the epoch" />
-      <item value="Indicator for transience of the value" />
-      <item value="which a serialized value can be obtained and specified" />
-      <item value="If you have a process instance hierarchy, activating * one process instance from the hierarchy will not activate other * process instances from that hierarchy" />
-      <item value="Activates the process instance with the given id" />
-      <item value="It is not recommended to use a intermediate catch timer event with a time cycle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="512" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="518" />
+        <entry key="ENGLISH" value="519" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
