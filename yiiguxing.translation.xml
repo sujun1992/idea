@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Decides how to propagate the exception properly, e.g. as bpmn error or &quot;normal&quot; error." />
       <item value="Provides access to the snapshot of latest variables of an execution." />
       <item value="Contains observers which are observe the execution." />
       <item value="persisted reference to the super case execution of this execution" />
@@ -50,12 +51,11 @@
       <item value="Return the HTTP status code (potentially non-standard and not * resolvable through the {@link HttpStatus} enum) as an integer." />
       <item value="Execute the HTTP method to the given URI template, writing the given request entity to the request, and * returns the response as {@link ResponseEntity}." />
       <item value="Converts this instant to the number of milliseconds from the epoch * of 1970-01-01T00:00:00Z." />
-      <item value="Converts this instant to the number of milliseconds from the epoch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="518" />
-        <entry key="ENGLISH" value="519" />
+        <entry key="CHINESE" value="519" />
+        <entry key="ENGLISH" value="520" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
