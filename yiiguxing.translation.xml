@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Migrating Instance" />
+      <item value="migrate History" />
       <item value="Decides how to propagate the exception properly, e.g. as bpmn error or &quot;normal&quot; error." />
       <item value="Provides access to the snapshot of latest variables of an execution." />
       <item value="Contains observers which are observe the execution." />
@@ -49,13 +51,11 @@
       <item value="Defines property resolution behavior on objects using the JavaBeans component architecture. This * resolver handles base objects of any type, as long as the base is not null. It accepts any object * as a property, and coerces it to a string. That string is then used to find a JavaBeans compliant * property on the base object. The value is accessed using JavaBeans getters and setters. This * resolver can be constructed in read-only mode, which means that isReadOnly will always return * true and {@link #setValue(ELContext, Object, Object, Object)} will always throw * PropertyNotWritableException. ELResolvers are combined together using {@link CompositeELResolver} * s, to define rich semantics for evaluating an expression. See the javadocs for {@link ELResolver} * for details. Because this resolver handles base objects of any type, it should be placed near the * end of a composite resolver. Otherwise, it will claim to have resolved a property before any * resolvers that come after it get a chance to test if they can do so as well." />
       <item value="milliseconds" />
       <item value="Return the HTTP status code (potentially non-standard and not * resolvable through the {@link HttpStatus} enum) as an integer." />
-      <item value="Execute the HTTP method to the given URI template, writing the given request entity to the request, and * returns the response as {@link ResponseEntity}." />
-      <item value="Converts this instant to the number of milliseconds from the epoch * of 1970-01-01T00:00:00Z." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="519" />
-        <entry key="ENGLISH" value="520" />
+        <entry key="CHINESE" value="521" />
+        <entry key="ENGLISH" value="522" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
