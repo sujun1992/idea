@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="By default, Reflect polyfills are auto-included by the CLI and" />
+      <item value="IE10 and IE11 requires the following for the Reflect API" />
       <item value="set Activity Behavior" />
       <item value="Default way of leaving a BPMN 2.0 activity: evaluate the conditions on the * outgoing sequence flow and take those that evaluate to true." />
       <item value="Put a {@link DbEntityState#MERGED} object into the cache." />
@@ -49,13 +51,11 @@
       <item value="Add additional {@link HttpMessageConverter HttpMessageConverters} that should be * used with the {@link RestTemplate}. Any converters configured on the builder will * replace RestTemplate's default converters." />
       <item value="Naming convention used in languages like C, where words are in lower-case * letters, separated by underscores. * See {@link SnakeCaseStrategy} for details. * * @since 2.7 (was formerly called {@link #CAMEL_CASE_TO_LOWER_CASE_WITH_UNDERSCORES})" />
       <item value="Snake Case Strategy" />
-      <item value="CAMEL CASE TO LOWER CASE WITH UNDERSCORES" />
-      <item value="apply Input Parameters" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="530" />
-        <entry key="ENGLISH" value="531" />
+        <entry key="CHINESE" value="532" />
+        <entry key="ENGLISH" value="533" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
