@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is Terminate" />
+      <item value="if Terminate" />
       <item value="terminate has no match expression" />
       <item value="terminate has no expression" />
       <item value="当前返回" />
@@ -49,13 +51,11 @@
       <item value="If not specified, the name of the column must be identical to the name * of the field." />
       <item value="A very simple CSV writer released under a commercial-friendly license." />
       <item value="word" />
-      <item value="eturns a structured representation of the request path including the * context path + path within application portions, path segments with * encoded and decoded values, and path parameters." />
-      <item value="andle returned from the proxy will be an actual asynchronous * {@code Future} that can be used to track the result of the asynchronous method * execution. However, since the target method needs to implement the same signature, * it will have to return a temporary {@code Future} handle that just passes a value * through: e.g. Spring's {@link AsyncResult}, EJB 3.1's {@link javax.ejb.AsyncResult}," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="542" />
-        <entry key="ENGLISH" value="543" />
+        <entry key="CHINESE" value="544" />
+        <entry key="ENGLISH" value="545" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
