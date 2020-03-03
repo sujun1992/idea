@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="serviceTask execute stop by terminate" />
       <item value="is Terminate" />
       <item value="if Terminate" />
       <item value="terminate has no match expression" />
@@ -50,12 +51,11 @@
       <item value="Defines the locale to be used for decoding the argument." />
       <item value="If not specified, the name of the column must be identical to the name * of the field." />
       <item value="A very simple CSV writer released under a commercial-friendly license." />
-      <item value="word" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="544" />
-        <entry key="ENGLISH" value="545" />
+        <entry key="CHINESE" value="545" />
+        <entry key="ENGLISH" value="546" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
