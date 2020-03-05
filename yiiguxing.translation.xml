@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="non-numeric argument to binary operator" />
+      <item value="numerical expression has 2 elements: only the first used" />
       <item value="proxy Bean Methods" />
       <item value="serviceTask execute stop by terminate" />
       <item value="is Terminate" />
@@ -49,13 +51,11 @@
       <item value="create variable scope for output parameters" />
       <item value="he quote character to be used when writing a CSV file" />
       <item value="If this is anything but an empty string, it will be used as a regular * expression to extract part of the input before conversion to the bean * field." />
-      <item value="Defines the locale to be used for decoding the argument." />
-      <item value="If not specified, the name of the column must be identical to the name * of the field." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="546" />
-        <entry key="ENGLISH" value="547" />
+        <entry key="CHINESE" value="548" />
+        <entry key="ENGLISH" value="549" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
