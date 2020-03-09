@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Atomically increments by one the current value" />
       <item value="argument &quot;x&quot; is missing, with no default" />
       <item value="argument to 'which' is not logical" />
       <item value="argument is not interpretable as logical" />
@@ -50,12 +51,11 @@
       <item value="delta" />
       <item value="deprecated" />
       <item value="has default methods (made * possible by a Java 8 baseline) and can be implemented directly without the * need for this adapter" />
-      <item value="The history level controls what kind of data is logged to the history database. * More formally, it controls which history events are produced by the {@link HistoryEventProducer}.&lt;/p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="551" />
-        <entry key="ENGLISH" value="552" />
+        <entry key="CHINESE" value="552" />
+        <entry key="ENGLISH" value="553" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
