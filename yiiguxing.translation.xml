@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="A format string for writing fields" />
+      <item value="If this is anything but an empty string, it will be used as a format" />
+      <item value="If this is anything but an empty string, it will be used as a regular * expression to extract part of the input before conversion to the bean * field." />
+      <item value="locale for numerical types does not mean the locale of the running * program, such as en-US or de-DE, but rather &lt;em&gt;no&lt;/em&gt; locale. Numbers * will be parsed more or less the way the Java compiler would parse them. * That means, for instance, that thousands separators in long numbers are * not permitted, even if the locale of the running program would accept * them. When dealing with locale-sensitive data, it is always best to * specify the locale explicitly.&lt;/p&gt;" />
       <item value="Sets whether or not results must be written in the same order in which * they appear in the list of beans provided as input." />
       <item value="The quote character to be used when writing a CSV file" />
       <item value="The escape character to be used when writing a CSV file" />
@@ -47,15 +51,11 @@
       <item value="fire Historic Activity Instance Update" />
       <item value="Dispatches the current delayed variable events and performs the given atomic operation * if the current state was not changed." />
       <item value="efault way of leaving a BPMN 2.0 activity: evaluate the conditions on the * outgoing sequence flow and take those that evaluate to true." />
-      <item value="The resulting string may vary depending on the platform's * default encoding. Instead, use the encode(String,String) * method to specify the encoding" />
-      <item value="Decrement an integer value stored as string value under {@code key} by one." />
-      <item value="decrement" />
-      <item value="set If Present" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="556" />
-        <entry key="ENGLISH" value="557" />
+        <entry key="CHINESE" value="560" />
+        <entry key="ENGLISH" value="561" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
