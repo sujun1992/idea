@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="birthday" />
+      <item value="second" />
       <item value="This class loader is used to load classes and resources from a search * path of URLs referring to both JAR files and directories. Any URL that * ends with a '/' is assumed to refer to a directory. Otherwise, the URL * is assumed to refer to a JAR file which will be opened as needed" />
       <item value="A format string for writing fields" />
       <item value="If this is anything but an empty string, it will be used as a format" />
@@ -49,13 +51,11 @@
       <item value="Provides access to the snapshot of latest variables of an execution." />
       <item value="Contains observers which are observe the execution." />
       <item value="persisted reference to the super case execution of this execution" />
-      <item value="fire Historic Activity Instance Update" />
-      <item value="Dispatches the current delayed variable events and performs the given atomic operation * if the current state was not changed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="CHINESE" value="563" />
+        <entry key="ENGLISH" value="564" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
