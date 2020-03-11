@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="check And Flip" />
+      <item value="eager" />
+      <item value="Only for type FIXED, the maximum time in millis to wait for aquiring" />
       <item value="available number of processors (but with a minimum value of 16)" />
       <item value="birthday" />
       <item value="second" />
@@ -48,14 +51,11 @@
       <item value="Creates the history event fired when a variable is &lt;strong&gt;created&lt;/strong&gt;." />
       <item value="Migrating Instance" />
       <item value="migrate History" />
-      <item value="Decides how to propagate the exception properly, e.g. as bpmn error or &quot;normal&quot; error." />
-      <item value="Provides access to the snapshot of latest variables of an execution." />
-      <item value="Contains observers which are observe the execution." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="563" />
-        <entry key="ENGLISH" value="564" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="567" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
