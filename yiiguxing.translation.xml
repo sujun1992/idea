@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <histories>
       <item value="provides an alternative to using a {@link Callable} for * asynchronous request processing. While a {@code Callable} is executed concurrently * on behalf of the application, with a {@code DeferredResult} the application can * produce the result from a thread of its choice" />
+      <item value="Subclasses can extend this class to easily associate additional data or behavior * with the {@link DeferredResult}. For example, one might want to associate the user * used to create the {@link DeferredResult} by extending the class and adding an * additional property for the user. In this way, the user could easily be accessed * later without the need to use a data structure to do the mapping." />
       <item value="Counts runs without data. Is used within batch window to calculate the delay between two job runs in case no data for cleanup was found" />
       <item value="HISTORY REMOVAL TIME STRATEGY END" />
       <item value="AUTHORIZATION CHECK REVOKE ALWAYS" />
@@ -50,12 +51,11 @@
       <item value="Put a {@link DbEntityState#MERGED} object into the cache." />
       <item value="merge" />
       <item value="The cache itself: maps entity types (classes) to maps indexed by id (primary key). * * The motivation for indexing by type (class) is * * a) multiple entities of different types could have the same value as primary key. In the * process engine, TaskEntity and HistoricTaskEntity have the same id value." />
-      <item value="ut a new, {@link DbEntityState#TRANSIENT} object into the cache." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="572" />
-        <entry key="ENGLISH" value="573" />
+        <entry key="CHINESE" value="574" />
+        <entry key="ENGLISH" value="575" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
