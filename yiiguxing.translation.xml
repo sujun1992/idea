@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="correlate Message" />
       <item value="create Incident Query" />
       <item value="provides an alternative to using a {@link Callable} for * asynchronous request processing. While a {@code Callable} is executed concurrently * on behalf of the application, with a {@code DeferredResult} the application can * produce the result from a thread of its choice" />
       <item value="Subclasses can extend this class to easily associate additional data or behavior * with the {@link DeferredResult}. For example, one might want to associate the user * used to create the {@link DeferredResult} by extending the class and adding an * additional property for the user. In this way, the user could easily be accessed * later without the need to use a data structure to do the mapping." />
@@ -50,12 +51,11 @@
       <item value="set Activity Behavior" />
       <item value="Default way of leaving a BPMN 2.0 activity: evaluate the conditions on the * outgoing sequence flow and take those that evaluate to true." />
       <item value="Put a {@link DbEntityState#MERGED} object into the cache." />
-      <item value="merge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="575" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="576" />
+        <entry key="ENGLISH" value="577" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
