@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complete Current Task" />
+      <item value="Task" />
       <item value="correlate Message" />
       <item value="create Incident Query" />
       <item value="provides an alternative to using a {@link Callable} for * asynchronous request processing. While a {@code Callable} is executed concurrently * on behalf of the application, with a {@code DeferredResult} the application can * produce the result from a thread of its choice" />
@@ -49,13 +51,11 @@
       <item value="By default, Reflect polyfills are auto-included by the CLI and" />
       <item value="IE10 and IE11 requires the following for the Reflect API" />
       <item value="set Activity Behavior" />
-      <item value="Default way of leaving a BPMN 2.0 activity: evaluate the conditions on the * outgoing sequence flow and take those that evaluate to true." />
-      <item value="Put a {@link DbEntityState#MERGED} object into the cache." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="576" />
-        <entry key="ENGLISH" value="577" />
+        <entry key="CHINESE" value="578" />
+        <entry key="ENGLISH" value="579" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
