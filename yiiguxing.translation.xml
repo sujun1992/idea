@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Update or create given variables for an execution (including parent scopes). If the variables are not already existing, they will be created in the process instance" />
       <item value="complete Current Task" />
       <item value="Task" />
       <item value="correlate Message" />
@@ -50,12 +51,11 @@
       <item value="The relative path or absolute URL of a template file for an Angular component. * If provided, do not supply an inline template using `template`." />
       <item value="By default, Reflect polyfills are auto-included by the CLI and" />
       <item value="IE10 and IE11 requires the following for the Reflect API" />
-      <item value="set Activity Behavior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="578" />
-        <entry key="ENGLISH" value="579" />
+        <entry key="CHINESE" value="579" />
+        <entry key="ENGLISH" value="580" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
