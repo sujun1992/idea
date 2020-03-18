@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Next Id" />
+      <item value="ensure Generator Initialized" />
+      <item value="Generator" />
+      <item value="Strong Uuid Generator" />
       <item value="deactivate camunda auto configuration" />
       <item value="set Queue Capacity" />
       <item value="Update or create given variables for an execution (including parent scopes). If the variables are not already existing, they will be created in the process instance" />
@@ -47,15 +51,11 @@
       <item value="Properties related to hearbeat verification" />
       <item value="ambiguous" />
       <item value="recognized" />
-      <item value="Define a single variable and its name to filter tasks in a topic. Multiple calls to * this method add to the existing &quot;variable filters&quot;." />
-      <item value="db Specific Dummy Table" />
-      <item value="limit Before Without Offset" />
-      <item value="The relative path or absolute URL of a template file for an Angular component. * If provided, do not supply an inline template using `template`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="581" />
-        <entry key="ENGLISH" value="582" />
+        <entry key="CHINESE" value="587" />
+        <entry key="ENGLISH" value="588" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
