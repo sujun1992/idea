@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="set Metric Registry" />
+      <item value="HikariConfigMXBean methods" />
       <item value="get Next Id" />
       <item value="ensure Generator Initialized" />
       <item value="Generator" />
@@ -49,13 +51,11 @@
       <item value="当前返回" />
       <item value="returns only alive servers. Each consul agent runs a serf agent which is * a member of the serf gossip pool. The serf status (alive/failed/etc) is reflected in 2 * consul APIs: in the agent API and in the catalog API. We prefer the agent API because * it is most up to date (or perhaps we should intersect them and pick members that are * live in both)" />
       <item value="Properties related to hearbeat verification" />
-      <item value="ambiguous" />
-      <item value="recognized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="587" />
-        <entry key="ENGLISH" value="588" />
+        <entry key="CHINESE" value="589" />
+        <entry key="ENGLISH" value="590" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
