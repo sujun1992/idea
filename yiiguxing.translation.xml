@@ -1,6 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Failed Operations" />
+      <item value="execute Db Operations" />
+      <item value="If we want to delete all table data as bulk operation, on tables which have self references, // We need to turn the foreign key check off on MySQL and MariaDB. // On other databases we have to do nothing, the mapped statement will be empty." />
+      <item value="flush Operations" />
+      <item value="is Ignore Foreign Keys For Next Flush" />
+      <item value="Execute an update statement. The number of rows affected will be returned" />
+      <item value="execute Non Empty Update Stmt" />
+      <item value="perform Entity Operation" />
+      <item value="A transient object does not exist in the database and has been created by the current session. * It will be INSERTed to the database and marked {@link #PERSISTENT} with the next flush" />
+      <item value="flush the db operation manager" />
+      <item value="flush the entity cache which inserts operations to the db operation manager" />
+      <item value="is Dirty" />
+      <item value="do not perform locking if H2 database is used. H2 uses table level locks // by default which may cause deadlocks if the deploy command needs to get a new // Id using the DbIdGenerator while performing a deployment." />
       <item value="set Metric Registry" />
       <item value="HikariConfigMXBean methods" />
       <item value="get Next Id" />
@@ -38,24 +51,11 @@
       <item value="A String equivalent of {@link MediaType#APPLICATION_JSON_UTF8}. * @deprecated as of 5.2 in favor of {@link #APPLICATION_JSON_VALUE} * since major browsers like Chrome * &lt;a href=&quot;https://bugs.chromium.org/p/chromium/issues/detail?id=438464&quot;&gt; * now comply with the specification&lt;/a&gt; and interpret correctly UTF-8 special * characters without requiring a {@code charset=UTF-8} parameter." />
       <item value="Atomically increments by one the current value" />
       <item value="argument &quot;x&quot; is missing, with no default" />
-      <item value="argument to 'which' is not logical" />
-      <item value="argument is not interpretable as logical" />
-      <item value="non-numeric argument to binary operator" />
-      <item value="numerical expression has 2 elements: only the first used" />
-      <item value="proxy Bean Methods" />
-      <item value="serviceTask execute stop by terminate" />
-      <item value="is Terminate" />
-      <item value="if Terminate" />
-      <item value="terminate has no match expression" />
-      <item value="terminate has no expression" />
-      <item value="当前返回" />
-      <item value="returns only alive servers. Each consul agent runs a serf agent which is * a member of the serf gossip pool. The serf status (alive/failed/etc) is reflected in 2 * consul APIs: in the agent API and in the catalog API. We prefer the agent API because * it is most up to date (or perhaps we should intersect them and pick members that are * live in both)" />
-      <item value="Properties related to hearbeat verification" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="589" />
-        <entry key="ENGLISH" value="590" />
+        <entry key="CHINESE" value="603" />
+        <entry key="ENGLISH" value="604" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
