@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Callback used to run the bea" />
+      <item value="Interface used to indicate that a bean should &lt;em&gt;run&lt;/em&gt; when it is contained within * a {@link SpringApplication}. Multiple {@link CommandLineRunner} beans can be defined * within the same application context and can be ordered using the {@link Ordered} * interface or {@link Order @Order} annotation. * &lt;p&gt; * If you need access to {@link ApplicationArguments} instead of the raw String array * consider using {@link ApplicationRunner}." />
       <item value="throwing Merger" />
       <item value="deploy" />
       <item value="mssql" />
@@ -49,13 +51,11 @@
       <item value="If this is anything but an empty string, it will be used as a regular * expression to extract part of the input before conversion to the bean * field." />
       <item value="locale for numerical types does not mean the locale of the running * program, such as en-US or de-DE, but rather &lt;em&gt;no&lt;/em&gt; locale. Numbers * will be parsed more or less the way the Java compiler would parse them. * That means, for instance, that thousands separators in long numbers are * not permitted, even if the locale of the running program would accept * them. When dealing with locale-sensitive data, it is always best to * specify the locale explicitly.&lt;/p&gt;" />
       <item value="Sets whether or not results must be written in the same order in which * they appear in the list of beans provided as input." />
-      <item value="The quote character to be used when writing a CSV file" />
-      <item value="The escape character to be used when writing a CSV file" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="606" />
-        <entry key="ENGLISH" value="607" />
+        <entry key="CHINESE" value="608" />
+        <entry key="ENGLISH" value="609" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
