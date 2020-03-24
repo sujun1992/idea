@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="throwing Merger" />
       <item value="deploy" />
       <item value="mssql" />
       <item value="get Failed Operations" />
@@ -50,12 +51,11 @@
       <item value="Sets whether or not results must be written in the same order in which * they appear in the list of beans provided as input." />
       <item value="The quote character to be used when writing a CSV file" />
       <item value="The escape character to be used when writing a CSV file" />
-      <item value="A String equivalent of {@link MediaType#APPLICATION_JSON_UTF8}. * @deprecated as of 5.2 in favor of {@link #APPLICATION_JSON_VALUE} * since major browsers like Chrome * &lt;a href=&quot;https://bugs.chromium.org/p/chromium/issues/detail?id=438464&quot;&gt; * now comply with the specification&lt;/a&gt; and interpret correctly UTF-8 special * characters without requiring a {@code charset=UTF-8} parameter." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="605" />
-        <entry key="ENGLISH" value="606" />
+        <entry key="CHINESE" value="606" />
+        <entry key="ENGLISH" value="607" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
