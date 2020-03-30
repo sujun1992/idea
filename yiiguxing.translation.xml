@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns a new {@code Collector} described by the given {@code supplier}, * {@code accumulator}, and {@code combiner} functions. The resulting * {@code Collector} has the {@code Collector.Characteristics.IDENTITY_FINISH} * characteristic." />
+      <item value="of" />
+      <item value="characteristics" />
       <item value="for Each Ordered" />
       <item value="Upgrade" />
       <item value="foo" />
@@ -48,14 +51,11 @@
       <item value="Only for type FIXED, the maximum time in millis to wait for aquiring" />
       <item value="available number of processors (but with a minimum value of 16)" />
       <item value="birthday" />
-      <item value="second" />
-      <item value="This class loader is used to load classes and resources from a search * path of URLs referring to both JAR files and directories. Any URL that * ends with a '/' is assumed to refer to a directory. Otherwise, the URL * is assumed to refer to a JAR file which will be opened as needed" />
-      <item value="A format string for writing fields" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="613" />
-        <entry key="ENGLISH" value="614" />
+        <entry key="CHINESE" value="616" />
+        <entry key="ENGLISH" value="617" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
