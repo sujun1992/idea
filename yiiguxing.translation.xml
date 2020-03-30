@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="seed" />
+      <item value="iterate" />
       <item value="Returns a new {@code Collector} described by the given {@code supplier}, * {@code accumulator}, and {@code combiner} functions. The resulting * {@code Collector} has the {@code Collector.Characteristics.IDENTITY_FINISH} * characteristic." />
       <item value="of" />
       <item value="characteristics" />
@@ -49,13 +51,11 @@
       <item value="check And Flip" />
       <item value="eager" />
       <item value="Only for type FIXED, the maximum time in millis to wait for aquiring" />
-      <item value="available number of processors (but with a minimum value of 16)" />
-      <item value="birthday" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="616" />
-        <entry key="ENGLISH" value="617" />
+        <entry key="CHINESE" value="618" />
+        <entry key="ENGLISH" value="619" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
