@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="create Timer Instances" />
+      <item value="fire Historic Activity Instance Update" />
+      <item value="create Sub Case Instance" />
+      <item value="create Sub Process Instance" />
       <item value="case Execution Id" />
       <item value="Terminates the case execution identified by the given id. * Performs the transition from &lt;code&gt;ACTIVE&lt;/code&gt; to state &lt;code&gt;TERMINATED&lt;/code&gt; * if the case execution belongs to a case model or a task or a stage. * Performs the transition from &lt;code&gt;AVAILABLE&lt;/code&gt; to state &lt;code&gt;TERMINATED&lt;/code&gt; if the case * execution belongs to a milestone" />
       <item value="the id of the case execution to be terminated" />
@@ -47,15 +51,11 @@
       <item value="set Queue Capacity" />
       <item value="Update or create given variables for an execution (including parent scopes). If the variables are not already existing, they will be created in the process instance" />
       <item value="complete Current Task" />
-      <item value="Task" />
-      <item value="correlate Message" />
-      <item value="create Incident Query" />
-      <item value="provides an alternative to using a {@link Callable} for * asynchronous request processing. While a {@code Callable} is executed concurrently * on behalf of the application, with a {@code DeferredResult} the application can * produce the result from a thread of its choice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="628" />
-        <entry key="ENGLISH" value="629" />
+        <entry key="CHINESE" value="633" />
+        <entry key="ENGLISH" value="634" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
