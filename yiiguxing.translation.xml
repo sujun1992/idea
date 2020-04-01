@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="configuration" />
       <item value="Create an incident associated with this execution" />
       <item value="In case this delegate execution is the process instance execution * and this process instance was started by a call activity, this method * returns the execution which executed the call activity in the super process instance." />
       <item value="seed" />
@@ -50,12 +51,11 @@
       <item value="AUTHORIZATION CHECK REVOKE ALWAYS" />
       <item value="HISTORY REMOVAL TIME STRATEGY START" />
       <item value="with Variables In Return" />
-      <item value="check And Flip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="621" />
-        <entry key="ENGLISH" value="622" />
+        <entry key="CHINESE" value="622" />
+        <entry key="ENGLISH" value="623" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
