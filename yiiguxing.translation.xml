@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="In case this delegate execution is the process instance execution * and this process instance was started by a call activity, this method * returns the execution which executed the call activity in the super process instance." />
       <item value="seed" />
       <item value="iterate" />
       <item value="Returns a new {@code Collector} described by the given {@code supplier}, * {@code accumulator}, and {@code combiner} functions. The resulting * {@code Collector} has the {@code Collector.Characteristics.IDENTITY_FINISH} * characteristic." />
@@ -50,12 +51,11 @@
       <item value="with Variables In Return" />
       <item value="check And Flip" />
       <item value="eager" />
-      <item value="Only for type FIXED, the maximum time in millis to wait for aquiring" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="618" />
-        <entry key="ENGLISH" value="619" />
+        <entry key="CHINESE" value="620" />
+        <entry key="ENGLISH" value="621" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="RUSSIAN" value="1" />
