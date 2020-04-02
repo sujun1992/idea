@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="teapot" />
+      <item value="Request Timeout" />
+      <item value="Proxy Authentication Required" />
+      <item value="Acceptable" />
       <item value="Note that the boundary events are not parsed during the parsing of the bpmn * activities, since the semantics are different (boundaryEvent needs to be * added as nested activity to the reference activity on PVM level)." />
       <item value="parse Boundary Events" />
       <item value="grade" />
@@ -47,15 +51,11 @@
       <item value="is Ignore Foreign Keys For Next Flush" />
       <item value="Execute an update statement. The number of rows affected will be returned" />
       <item value="execute Non Empty Update Stmt" />
-      <item value="perform Entity Operation" />
-      <item value="A transient object does not exist in the database and has been created by the current session. * It will be INSERTed to the database and marked {@link #PERSISTENT} with the next flush" />
-      <item value="flush the db operation manager" />
-      <item value="flush the entity cache which inserts operations to the db operation manager" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="644" />
-        <entry key="ENGLISH" value="645" />
+        <entry key="CHINESE" value="648" />
+        <entry key="ENGLISH" value="649" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
