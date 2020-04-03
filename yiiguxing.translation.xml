@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="get Revision Next" />
+      <item value="Called when an execution is interrupted. This will remove all associated entities * such as event subscriptions, jobs, ..." />
+      <item value="interrupt" />
+      <item value="fire Historic Process Start Event" />
+      <item value="inactivate" />
+      <item value="remove all event subscriptions for this scope, if the scope has event // subscriptions" />
+      <item value="removes jobs, incidents and tasks, and // clears the variable store" />
+      <item value="Method used for destroying a scope in a way that the execution can be * removed afterwards" />
+      <item value="indicates if this execution represents an active path of execution. * Executions are made inactive in the following situations:" />
       <item value="teapot" />
       <item value="Request Timeout" />
       <item value="Proxy Authentication Required" />
@@ -42,20 +51,11 @@
       <item value="Callback used to run the bea" />
       <item value="Interface used to indicate that a bean should &lt;em&gt;run&lt;/em&gt; when it is contained within * a {@link SpringApplication}. Multiple {@link CommandLineRunner} beans can be defined * within the same application context and can be ordered using the {@link Ordered} * interface or {@link Order @Order} annotation. * &lt;p&gt; * If you need access to {@link ApplicationArguments} instead of the raw String array * consider using {@link ApplicationRunner}." />
       <item value="throwing Merger" />
-      <item value="deploy" />
-      <item value="mssql" />
-      <item value="get Failed Operations" />
-      <item value="execute Db Operations" />
-      <item value="If we want to delete all table data as bulk operation, on tables which have self references, // We need to turn the foreign key check off on MySQL and MariaDB. // On other databases we have to do nothing, the mapped statement will be empty." />
-      <item value="flush Operations" />
-      <item value="is Ignore Foreign Keys For Next Flush" />
-      <item value="Execute an update statement. The number of rows affected will be returned" />
-      <item value="execute Non Empty Update Stmt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="648" />
-        <entry key="ENGLISH" value="649" />
+        <entry key="CHINESE" value="657" />
+        <entry key="ENGLISH" value="658" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
