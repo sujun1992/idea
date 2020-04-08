@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Controls events of execution listener" />
+      <item value="Controls events of task listener" />
       <item value="configuration" />
       <item value="Create an incident associated with this execution" />
       <item value="Returns an equivalent stream that is parallel. May return * itself, either because the stream was already parallel, or because * the underlying stream state was modified to be parallel." />
@@ -49,13 +51,11 @@
       <item value="for Each Ordered" />
       <item value="Upgrade" />
       <item value="foo" />
-      <item value="undeploy" />
-      <item value="Callback used to run the bea" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="661" />
-        <entry key="ENGLISH" value="662" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="665" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
