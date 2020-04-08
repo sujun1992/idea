@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error while fetching metadata with correlation id" />
       <item value="do not continue listener invocation once a listener has failed" />
       <item value="Transition Impl" />
       <item value="Controls events of execution listener" />
@@ -50,12 +51,11 @@
       <item value="Returns a new {@code Collector} described by the given {@code supplier}, * {@code accumulator}, and {@code combiner} functions. The resulting * {@code Collector} has the {@code Collector.Characteristics.IDENTITY_FINISH} * characteristic." />
       <item value="of" />
       <item value="characteristics" />
-      <item value="for Each Ordered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="666" />
-        <entry key="ENGLISH" value="667" />
+        <entry key="CHINESE" value="667" />
+        <entry key="ENGLISH" value="668" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
