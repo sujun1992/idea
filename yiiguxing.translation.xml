@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Configuration Service" />
       <item value="Whether to dispatch TRACE requests to the FrameworkServlet doService method" />
       <item value="dispatch Trace Request" />
       <item value="Locate a value editor for a given target type" />
@@ -50,12 +51,11 @@
       <item value="Suspends the process instance with the given id. This means that the * execution is stopped, so the &lt;i&gt;token state&lt;/i&gt; will not change. * However, actions that do not change token state, like setting/removing * variables, etc. will succeed" />
       <item value="If you have a process instance hierarchy, suspending * one process instance from the hierarchy will not suspend other * process instances from that hierarchy" />
       <item value="suspend Process Instance By Id" />
-      <item value="In case this delegate execution is the process instance execution * and this process instance was started by a call activity, this method * returns the execution which executed the call activity in the super process instance." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="670" />
-        <entry key="ENGLISH" value="671" />
+        <entry key="CHINESE" value="671" />
+        <entry key="ENGLISH" value="672" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
