@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Conditional" />
+      <item value="that will match when none of the nested class conditions match. Can * be used to create composite conditions" />
+      <item value="Not Reactive Web Application Condition" />
+      <item value="because NoneNestedConditions 1 matched 0 did not" />
+      <item value="not loaded because NoneNestedConditions 1 matched 0 did not" />
+      <item value="The following candidates were found but could not be injected" />
+      <item value="Parameter 0 of method enableAuthorizationCheckGatewayFilterFactory in com.ai.ocp.config.OcpAutoConfiguration required a bean of type 'org.springframework.boot.web.client.RestTemplateBuilder' that could not be found" />
+      <item value="None Nested Conditions" />
       <item value="expected at least 1 bean which qualifies as autowire candidate. Dependency annotations" />
       <item value="qualifying" />
       <item value="Configuration Service" />
@@ -39,23 +47,15 @@
       <item value="interrupting" />
       <item value="is Interrupting Timer" />
       <item value="Thorben Lindhauer" />
-      <item value="Conditional" />
       <item value="Tries to evaluate the condition. If the property which is used in the condition does not exist * false will be returned." />
       <item value="hierarchy" />
       <item value="Optimistic Locking Exception" />
       <item value="create Timer Instances" />
-      <item value="fire Historic Activity Instance Update" />
-      <item value="create Sub Case Instance" />
-      <item value="create Sub Process Instance" />
-      <item value="case Execution Id" />
-      <item value="Terminates the case execution identified by the given id. * Performs the transition from &lt;code&gt;ACTIVE&lt;/code&gt; to state &lt;code&gt;TERMINATED&lt;/code&gt; * if the case execution belongs to a case model or a task or a stage. * Performs the transition from &lt;code&gt;AVAILABLE&lt;/code&gt; to state &lt;code&gt;TERMINATED&lt;/code&gt; if the case * execution belongs to a milestone" />
-      <item value="the id of the case execution to be terminated" />
-      <item value="Suspends the process instance with the given id. This means that the * execution is stopped, so the &lt;i&gt;token state&lt;/i&gt; will not change. * However, actions that do not change token state, like setting/removing * variables, etc. will succeed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="673" />
-        <entry key="ENGLISH" value="674" />
+        <entry key="CHINESE" value="679" />
+        <entry key="ENGLISH" value="680" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
