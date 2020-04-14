@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="expected at least 1 bean which qualifies as autowire candidate. Dependency annotations" />
+      <item value="qualifying" />
       <item value="Configuration Service" />
       <item value="Whether to dispatch TRACE requests to the FrameworkServlet doService method" />
       <item value="dispatch Trace Request" />
@@ -49,13 +51,11 @@
       <item value="Terminates the case execution identified by the given id. * Performs the transition from &lt;code&gt;ACTIVE&lt;/code&gt; to state &lt;code&gt;TERMINATED&lt;/code&gt; * if the case execution belongs to a case model or a task or a stage. * Performs the transition from &lt;code&gt;AVAILABLE&lt;/code&gt; to state &lt;code&gt;TERMINATED&lt;/code&gt; if the case * execution belongs to a milestone" />
       <item value="the id of the case execution to be terminated" />
       <item value="Suspends the process instance with the given id. This means that the * execution is stopped, so the &lt;i&gt;token state&lt;/i&gt; will not change. * However, actions that do not change token state, like setting/removing * variables, etc. will succeed" />
-      <item value="If you have a process instance hierarchy, suspending * one process instance from the hierarchy will not suspend other * process instances from that hierarchy" />
-      <item value="suspend Process Instance By Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="671" />
-        <entry key="ENGLISH" value="672" />
+        <entry key="CHINESE" value="673" />
+        <entry key="ENGLISH" value="674" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
