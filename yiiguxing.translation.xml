@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mock Expression Manager" />
+      <item value="Central manager for all expressions" />
+      <item value="Instances of this class are usually created using an" />
+      <item value="A value expression is ready to be evaluated" />
+      <item value="Tree Value Expression" />
       <item value="Conditional" />
       <item value="that will match when none of the nested class conditions match. Can * be used to create composite conditions" />
       <item value="Not Reactive Web Application Condition" />
@@ -46,16 +51,11 @@
       <item value="Parses a boundary timer event. The end-result will be that the given nested * activity will get the appropriate" />
       <item value="interrupting" />
       <item value="is Interrupting Timer" />
-      <item value="Thorben Lindhauer" />
-      <item value="Tries to evaluate the condition. If the property which is used in the condition does not exist * false will be returned." />
-      <item value="hierarchy" />
-      <item value="Optimistic Locking Exception" />
-      <item value="create Timer Instances" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="679" />
-        <entry key="ENGLISH" value="680" />
+        <entry key="CHINESE" value="684" />
+        <entry key="ENGLISH" value="685" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
