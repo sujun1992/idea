@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="TLS/SSL connections" />
+      <item value="Creates default factory based on the standard JSSE trust material * ({@code cacerts} file in the security properties directory). System properties * are not taken into consideration." />
       <item value="undo Delete" />
       <item value="A transient object which does not exist in the database but has been created and deleted in the current session. * It will not be flushed to the database and will be removed from the cache at the next flush" />
       <item value="if false, returned {@link SerializableValue}s * will not be deserialized (unless they are passed into this method as a * deserialized value or if the BPMN process triggers deserialization)" />
@@ -49,13 +51,11 @@
       <item value="Request Timeout" />
       <item value="Proxy Authentication Required" />
       <item value="Acceptable" />
-      <item value="Note that the boundary events are not parsed during the parsing of the bpmn * activities, since the semantics are different (boundaryEvent needs to be * added as nested activity to the reference activity on PVM level)." />
-      <item value="parse Boundary Events" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="689" />
-        <entry key="ENGLISH" value="689" />
+        <entry key="CHINESE" value="690" />
+        <entry key="ENGLISH" value="691" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
