@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="flush the entity cache which inserts operations to the db operation manager" />
+      <item value="Tom Baeyens" />
       <item value="merge" />
       <item value="NOTE: a proper implementation of merge() would fetch the entity from the database // and merge the state changes. For now, we simply always perform an update. // Supposedly, the &quot;proper&quot; implementation would reduce the number of situations where // optimistic locking results in a conflict." />
       <item value="Decides if an operation that failed for concurrent modifications can be tolerated, * or if {@link OptimisticLockingException} should be raised" />
@@ -49,13 +51,11 @@
       <item value="Controls events of task listener" />
       <item value="configuration" />
       <item value="Create an incident associated with this execution" />
-      <item value="Returns an equivalent stream that is parallel. May return * itself, either because the stream was already parallel, or because * the underlying stream state was modified to be parallel." />
-      <item value="Incident Entity" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="704" />
-        <entry key="ENGLISH" value="704" />
+        <entry key="ENGLISH" value="705" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -69,6 +69,7 @@
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
+        <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
