@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="has been added to an interface" />
       <item value="TLS/SSL connections" />
       <item value="Creates default factory based on the standard JSSE trust material * ({@code cacerts} file in the security properties directory). System properties * are not taken into consideration." />
       <item value="undo Delete" />
@@ -50,12 +51,11 @@
       <item value="teapot" />
       <item value="Request Timeout" />
       <item value="Proxy Authentication Required" />
-      <item value="Acceptable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="690" />
-        <entry key="ENGLISH" value="691" />
+        <entry key="CHINESE" value="691" />
+        <entry key="ENGLISH" value="692" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
