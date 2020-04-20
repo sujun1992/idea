@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="merge" />
+      <item value="NOTE: a proper implementation of merge() would fetch the entity from the database // and merge the state changes. For now, we simply always perform an update. // Supposedly, the &quot;proper&quot; implementation would reduce the number of situations where // optimistic locking results in a conflict." />
+      <item value="Decides if an operation that failed for concurrent modifications can be tolerated, * or if {@link OptimisticLockingException} should be raised" />
+      <item value="make created execution start in same activity instance" />
       <item value="is Async Before" />
       <item value="acquire Method Accessor" />
       <item value="Caller Sensitive" />
@@ -47,15 +51,11 @@
       <item value="Create an incident associated with this execution" />
       <item value="Returns an equivalent stream that is parallel. May return * itself, either because the stream was already parallel, or because * the underlying stream state was modified to be parallel." />
       <item value="Incident Entity" />
-      <item value="get Revision Next" />
-      <item value="Called when an execution is interrupted. This will remove all associated entities * such as event subscriptions, jobs, ..." />
-      <item value="interrupt" />
-      <item value="fire Historic Process Start Event" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="699" />
-        <entry key="ENGLISH" value="700" />
+        <entry key="CHINESE" value="704" />
+        <entry key="ENGLISH" value="704" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -63,7 +63,7 @@
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="3" />
         <entry key="LATIN" value="2" />
-        <entry key="ROMANIAN" value="2" />
+        <entry key="ROMANIAN" value="3" />
         <entry key="MALTESE" value="1" />
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
