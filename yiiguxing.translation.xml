@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns {@code true} if this method is a bridge" />
       <item value="the object the underlying method is invoked from" />
       <item value="spinjar" />
       <item value="Shading will break its strong encapsulation" />
@@ -50,12 +51,11 @@
       <item value="reverse" />
       <item value="Error while fetching metadata with correlation id" />
       <item value="do not continue listener invocation once a listener has failed" />
-      <item value="Transition Impl" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="707" />
-        <entry key="ENGLISH" value="708" />
+        <entry key="CHINESE" value="708" />
+        <entry key="ENGLISH" value="709" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
