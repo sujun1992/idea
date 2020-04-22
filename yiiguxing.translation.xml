@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Maps the json represented by this object to a java object of the given type.&lt;br&gt; * Note: the desired target type is not validated and needs to be trusted" />
       <item value="is Var Args" />
       <item value="Set a new Number property in this node" />
       <item value="Returns an equivalent stream that is parallel. May return * itself, either because the stream was already parallel, or because * the underlying stream state was modified to be parallel" />
@@ -22,7 +23,6 @@
       <item value="coerce" />
       <item value="sometimes the class identifier is at once a fully qualified class name" />
       <item value="Maps the json represented by this object to a java object of the given type. * Argument is to be supplied in Jackson's canonical type string format * (see {@link JavaType#toCanonical()}).&lt;br&gt; * Note: the desired target type is not validated and needs to be trusted." />
-      <item value="Maps the json represented by this object to a java object of the given type.&lt;br&gt; * Note: the desired target type is not validated and needs to be trusted" />
       <item value="has been added to an interface" />
       <item value="TLS/SSL connections" />
       <item value="Creates default factory based on the standard JSSE trust material * ({@code cacerts} file in the security properties directory). System properties * are not taken into consideration." />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="711" />
-        <entry key="ENGLISH" value="712" />
+        <entry key="CHINESE" value="712" />
+        <entry key="ENGLISH" value="713" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
