@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="transient" />
       <item value="Handler type for incidents created on external task failure" />
       <item value="the maximum time to wait" />
       <item value="the time unit of the {@code timeout} argument" />
@@ -50,12 +51,11 @@
       <item value="not loaded because NoneNestedConditions 1 matched 0 did not" />
       <item value="The following candidates were found but could not be injected" />
       <item value="Parameter 0 of method enableAuthorizationCheckGatewayFilterFactory in com.ai.ocp.config.OcpAutoConfiguration required a bean of type 'org.springframework.boot.web.client.RestTemplateBuilder' that could not be found" />
-      <item value="None Nested Conditions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="719" />
-        <entry key="ENGLISH" value="720" />
+        <entry key="CHINESE" value="720" />
+        <entry key="ENGLISH" value="721" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
