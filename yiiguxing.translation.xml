@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="assert" />
       <item value="get Variables By Key Value" />
       <item value="transient" />
       <item value="Handler type for incidents created on external task failure" />
@@ -50,12 +51,11 @@
       <item value="Not Reactive Web Application Condition" />
       <item value="because NoneNestedConditions 1 matched 0 did not" />
       <item value="not loaded because NoneNestedConditions 1 matched 0 did not" />
-      <item value="The following candidates were found but could not be injected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="721" />
-        <entry key="ENGLISH" value="722" />
+        <entry key="CHINESE" value="722" />
+        <entry key="ENGLISH" value="723" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
