@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Indicator for transience of the value" />
+      <item value="is Deserialized" />
       <item value="&lt;p&gt;Returns whether the value type is abstract. This is &lt;b&gt;not related * to the term &lt;i&gt;abstract&lt;/i&gt; in the Java language.&lt;/b&gt;&lt;/p&gt; * * Abstract value types cannot be used as types for variables but only used for querying." />
       <item value="is Primitive Value Type" />
       <item value="Indicates whether this type is primitive valued. Primitive valued types can be handled * natively by the process engine" />
       <item value="is Transient" />
-      <item value="Indicator for transience of the value" />
       <item value="The actual value. May be null in case the value is null" />
       <item value="The type of the value. See ValueType for a list of built-in ValueTypes" />
       <item value="register To Jmx" />
@@ -50,12 +51,11 @@
       <item value="TLS/SSL connections" />
       <item value="Creates default factory based on the standard JSSE trust material * ({@code cacerts} file in the security properties directory). System properties * are not taken into consideration." />
       <item value="undo Delete" />
-      <item value="A transient object which does not exist in the database but has been created and deleted in the current session. * It will not be flushed to the database and will be removed from the cache at the next flush" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="738" />
-        <entry key="ENGLISH" value="739" />
+        <entry key="CHINESE" value="740" />
+        <entry key="ENGLISH" value="741" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
