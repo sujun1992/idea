@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Doug Lea" />
       <item value="delegate" />
       <item value="If the service state is {@link State#NEW}, this initiates service startup and returns * immediately. A stopped service may not be restarted." />
       <item value="Gwt Incompatible" />
@@ -50,11 +51,10 @@
       <item value="coerce" />
       <item value="sometimes the class identifier is at once a fully qualified class name" />
       <item value="Maps the json represented by this object to a java object of the given type. * Argument is to be supplied in Jackson's canonical type string format * (see {@link JavaType#toCanonical()}).&lt;br&gt; * Note: the desired target type is not validated and needs to be trusted." />
-      <item value="has been added to an interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="743" />
+        <entry key="CHINESE" value="744" />
         <entry key="ENGLISH" value="744" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
@@ -68,6 +68,7 @@
         <entry key="NORWEGIAN" value="1" />
         <entry key="PORTUGUESE" value="1" />
         <entry key="JAPANESE" value="1" />
+        <entry key="SAMOAN" value="1" />
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="HINDI" value="1" />
         <entry key="INDONESIAN" value="1" />
