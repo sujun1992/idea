@@ -5,8 +5,7 @@
       <mapping pattern="CSCF_V500R012C00SPC200_FS_EVS_4NIC_DEPLOYMENT" type="PLAIN_TEXT" />
       <mapping ext="grammar" type="PLAIN_TEXT" />
       <mapping ext="fetchandlockhandler" type="PLAIN_TEXT" />
-      <mapping ext="drl" type="PLAIN_TEXT" />
-      <removed_mapping ext="drl" approved="true" type="Native" />
+      <removed_mapping ext="drl" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
