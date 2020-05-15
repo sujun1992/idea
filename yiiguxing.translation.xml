@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Releases all the current session resources, setting up the session for garbage collection. * This method &lt;b&gt;must&lt;/b&gt; always be called after finishing using the session, or the engine * will not free the memory used by the session. * If a logger has been registered on this session it will be automatically closed" />
+      <item value="Fire all Matches on the Agenda" />
       <item value="threshold" />
       <item value="Implements Map.remove and related methods" />
       <item value="Initializes or doubles table size. If null, allocates in * accord with initial capacity target held in field threshold. * Otherwise, because we are using power-of-two expansion, the * elements from each bin must either stay at same index, or move * with a power of two offset in the new table" />
@@ -49,13 +51,11 @@
       <item value="make created execution start in same activity instance" />
       <item value="is Async Before" />
       <item value="acquire Method Accessor" />
-      <item value="Caller Sensitive" />
-      <item value="If the method completes normally, the value it returns is * returned to the caller of invoke; if the value has a primitive * type, it is first appropriately wrapped in an object. However, * if the value has the type of an array of a primitive type, the * elements of the array are &lt;i&gt;not&lt;/i&gt; wrapped in objects; in * other words, an array of primitive type is returned. If the * underlying method return type is void, the invocation returns * null" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="746" />
-        <entry key="ENGLISH" value="747" />
+        <entry key="CHINESE" value="748" />
+        <entry key="ENGLISH" value="749" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
