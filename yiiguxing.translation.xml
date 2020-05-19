@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="draw" />
       <item value="Copy the property values of the given source bean into the given target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored" />
       <item value="To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath." />
       <item value="ethernetinterfaces" />
@@ -50,12 +51,11 @@
       <item value="shaded" />
       <item value="flush the entity cache which inserts operations to the db operation manager" />
       <item value="Tom Baeyens" />
-      <item value="merge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="753" />
-        <entry key="ENGLISH" value="754" />
+        <entry key="CHINESE" value="754" />
+        <entry key="ENGLISH" value="755" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
