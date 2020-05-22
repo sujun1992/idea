@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="draw" />
       <item value="Camber Lay Out" />
       <item value="Removes all of the mappings from this map (optional operation). * The map will be empty after this call returns" />
       <item value="Atomically increments by one the current value" />
       <item value="get And Increment" />
-      <item value="draw" />
       <item value="Copy the property values of the given source bean into the given target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored" />
       <item value="To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath." />
       <item value="ethernetinterfaces" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="759" />
-        <entry key="ENGLISH" value="760" />
+        <entry key="CHINESE" value="760" />
+        <entry key="ENGLISH" value="761" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
