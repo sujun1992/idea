@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Hexadecimal string contains non-hex character" />
       <item value="Stack trace" />
       <item value="draw" />
       <item value="Camber Lay Out" />
@@ -50,12 +51,11 @@
       <item value="Set a new Number property in this node" />
       <item value="Returns an equivalent stream that is parallel. May return * itself, either because the stream was already parallel, or because * the underlying stream state was modified to be parallel" />
       <item value="Returns {@code true} if this method is a bridge" />
-      <item value="the object the underlying method is invoked from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="761" />
-        <entry key="ENGLISH" value="762" />
+        <entry key="CHINESE" value="762" />
+        <entry key="ENGLISH" value="763" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
