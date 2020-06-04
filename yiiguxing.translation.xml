@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="level" />
       <item value="eor Interval" />
       <item value="provience" />
       <item value="vals" />
@@ -50,7 +51,6 @@
       <item value="is Async" />
       <item value="Async" />
       <item value="Db Schema Create" />
-      <item value="Maps the json represented by this object to a java object of the given type.&lt;br&gt; * Note: the desired target type is not validated and needs to be trusted" />
     </histories>
     <option name="languageScores">
       <map>
