@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="whether Terminate" />
+      <item value="terminate value expect string or integer" />
       <item value="fatal" />
       <item value="certificate unknown" />
       <item value="interrupted" />
@@ -49,13 +51,11 @@
       <item value="The type of the value. See ValueType for a list of built-in ValueTypes" />
       <item value="register To Jmx" />
       <item value="Object Name" />
-      <item value="If this method successfully creates an MBean, a notification * is sent as described" />
-      <item value="M Bean Server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="777" />
-        <entry key="ENGLISH" value="778" />
+        <entry key="CHINESE" value="779" />
+        <entry key="ENGLISH" value="780" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
