@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Singleton" />
+      <item value="Set the variant identifier as specified for version 4 UUID values. The two // high order bits of the lower word are required to be one and zero, respectively" />
+      <item value="Creates a new DataDistribution with no data summarized" />
       <item value="Http Trace Repository" />
       <item value="Validated" />
       <item value="We don't want a hard dependency on Redis to allow traffic. Make sure to set * an alert so you know if this is happening too much. Stripe's observed * failure rate is 0.01%." />
@@ -48,14 +51,11 @@
       <item value="If the service state is {@link State#NEW}, this initiates service startup and returns * immediately. A stopped service may not be restarted." />
       <item value="Gwt Incompatible" />
       <item value="Indicator for transience of the value" />
-      <item value="is Deserialized" />
-      <item value="&lt;p&gt;Returns whether the value type is abstract. This is &lt;b&gt;not related * to the term &lt;i&gt;abstract&lt;/i&gt; in the Java language.&lt;/b&gt;&lt;/p&gt; * * Abstract value types cannot be used as types for variables but only used for querying." />
-      <item value="is Primitive Value Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="784" />
-        <entry key="ENGLISH" value="785" />
+        <entry key="CHINESE" value="788" />
+        <entry key="ENGLISH" value="789" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
