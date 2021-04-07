@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return the metamodel entity corresponding to the root. @return metamodel entity corresponding to the root" />
+      <item value="Create a path corresponding to the referenced single-valued attribute. @param attribute single-valued attribute @return path corresponding to the referenced attribute" />
       <item value="Consistent creation of early reference within full singleton lock" />
       <item value="dummy" />
       <item value="This is useful to reuse task classes from a plugin or to apply it to some other target than the current script" />
@@ -49,13 +51,11 @@
       <item value="ethernetrfaces" />
       <item value="Base implementation of {@link HttpClient} that also implements {@link Closeable}." />
       <item value="Releases all the current session resources, setting up the session for garbage collection. * This method &lt;b&gt;must&lt;/b&gt; always be called after finishing using the session, or the engine * will not free the memory used by the session. * If a logger has been registered on this session it will be automatically closed" />
-      <item value="Fire all Matches on the Agenda" />
-      <item value="threshold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="794" />
-        <entry key="ENGLISH" value="795" />
+        <entry key="CHINESE" value="796" />
+        <entry key="ENGLISH" value="797" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -77,7 +77,7 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="ignoreRegExp" value="" />
+  <component name="Cache">
+    <option name="lastTrimTime" value="1617803381454" />
   </component>
 </application>
