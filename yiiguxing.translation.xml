@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="623" />
+    <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="SOP质检名称重复！" />
       <item value="Return the metamodel entity corresponding to the root. @return metamodel entity corresponding to the root" />
       <item value="Create a path corresponding to the referenced single-valued attribute. @param attribute single-valued attribute @return path corresponding to the referenced attribute" />
       <item value="Consistent creation of early reference within full singleton lock" />
@@ -50,12 +54,12 @@
       <item value="ethernetinterfaces" />
       <item value="ethernetrfaces" />
       <item value="Base implementation of {@link HttpClient} that also implements {@link Closeable}." />
-      <item value="Releases all the current session resources, setting up the session for garbage collection. * This method &lt;b&gt;must&lt;/b&gt; always be called after finishing using the session, or the engine * will not free the memory used by the session. * If a logger has been registered on this session it will be automatically closed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="796" />
         <entry key="ENGLISH" value="797" />
+        <entry key="CHINESE_TRADITIONAL" value="1" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
