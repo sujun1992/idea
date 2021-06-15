@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="592" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="客户标签详情" />
+      <item value="质检对象" />
       <item value="SOP质检名称重复！" />
       <item value="Return the metamodel entity corresponding to the root. @return metamodel entity corresponding to the root" />
       <item value="Create a path corresponding to the referenced single-valued attribute. @param attribute single-valued attribute @return path corresponding to the referenced attribute" />
@@ -52,14 +54,12 @@
       <item value="Copy the property values of the given source bean into the given target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored" />
       <item value="To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath." />
       <item value="ethernetinterfaces" />
-      <item value="ethernetrfaces" />
-      <item value="Base implementation of {@link HttpClient} that also implements {@link Closeable}." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="796" />
         <entry key="ENGLISH" value="797" />
-        <entry key="CHINESE_TRADITIONAL" value="1" />
+        <entry key="CHINESE_TRADITIONAL" value="2" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -82,6 +82,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623074298578" />
+    <option name="lastTrimTime" value="1623727477846" />
   </component>
 </application>
