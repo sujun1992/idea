@@ -1,9 +1,12 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="584" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="特定质检项之后" />
+      <item value="全文第$s句之内" />
+      <item value="全文" />
       <item value="SOP定时质检任务不存在！" />
       <item value="客户标签详情" />
       <item value="质检对象" />
@@ -51,15 +54,12 @@
       <item value="Camber Lay Out" />
       <item value="Removes all of the mappings from this map (optional operation). * The map will be empty after this call returns" />
       <item value="Atomically increments by one the current value" />
-      <item value="get And Increment" />
-      <item value="Copy the property values of the given source bean into the given target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored" />
-      <item value="To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="796" />
         <entry key="ENGLISH" value="797" />
-        <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
