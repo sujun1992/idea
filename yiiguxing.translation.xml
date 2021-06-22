@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="584" />
+    <option name="newTranslationDialogWidth" value="576" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="检查范围" />
+      <item value="人工质检结果.xlsx" />
+      <item value="机器质检结果" />
+      <item value="机器" />
       <item value="特定质检项之后" />
       <item value="全文第$s句之内" />
       <item value="全文" />
@@ -50,16 +54,12 @@
       <item value="vender" />
       <item value="Hexadecimal string contains non-hex character" />
       <item value="Stack trace" />
-      <item value="draw" />
-      <item value="Camber Lay Out" />
-      <item value="Removes all of the mappings from this map (optional operation). * The map will be empty after this call returns" />
-      <item value="Atomically increments by one the current value" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="796" />
-        <entry key="ENGLISH" value="797" />
-        <entry key="CHINESE_TRADITIONAL" value="6" />
+        <entry key="CHINESE" value="801" />
+        <entry key="ENGLISH" value="802" />
+        <entry key="CHINESE_TRADITIONAL" value="9" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
