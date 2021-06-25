@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="570" />
+    <option name="newTranslationDialogWidth" value="568" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="该词表值未找到！" />
       <item value="词表值仅支持中文、字母、数字、&quot;-&quot;以及&quot;_&quot;" />
       <item value="词表名称仅支持中文、字母、数字、&quot;-&quot;以及&quot;_&quot;" />
       <item value="实体" />
@@ -53,13 +54,12 @@
       <item value="level" />
       <item value="eor Interval" />
       <item value="provience" />
-      <item value="vals" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="807" />
         <entry key="ENGLISH" value="808" />
-        <entry key="CHINESE_TRADITIONAL" value="11" />
+        <entry key="CHINESE_TRADITIONAL" value="12" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
