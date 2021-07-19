@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="staff Labels" />
+      <item value="customer Labels" />
+      <item value="copy From Id" />
+      <item value="is Consistent" />
+      <item value="Consistent" />
       <item value="未找到上次任务执行结果！" />
       <item value="当前已有相同名称的词表，如需继续创建，请修改词表名称。" />
       <item value="词表信息.xlsx" />
@@ -49,16 +54,11 @@
       <item value="whether Terminate" />
       <item value="terminate value expect string or integer" />
       <item value="fatal" />
-      <item value="certificate unknown" />
-      <item value="interrupted" />
-      <item value="on Uncaught Exception" />
-      <item value="key-alias" />
-      <item value="alert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="809" />
-        <entry key="ENGLISH" value="809" />
+        <entry key="CHINESE" value="813" />
+        <entry key="ENGLISH" value="814" />
         <entry key="CHINESE_TRADITIONAL" value="19" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
@@ -82,7 +82,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626240063061" />
+    <option name="lastTrimTime" value="1626678413673" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
