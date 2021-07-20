@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="To Be Released" />
       <item value="staff Labels" />
       <item value="customer Labels" />
       <item value="copy From Id" />
@@ -53,12 +54,11 @@
       <item value="apply Input Parameters" />
       <item value="whether Terminate" />
       <item value="terminate value expect string or integer" />
-      <item value="fatal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="813" />
-        <entry key="ENGLISH" value="814" />
+        <entry key="CHINESE" value="814" />
+        <entry key="ENGLISH" value="815" />
         <entry key="CHINESE_TRADITIONAL" value="19" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
