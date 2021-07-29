@@ -1,9 +1,46 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="590" />
+    <option name="newTranslationDialogWidth" value="536" />
     <option name="newTranslationDialogX" value="623" />
     <option name="newTranslationDialogY" value="342" />
     <histories>
+      <item value="此系统已经存在！" />
+      <item value="SYSTEM ALREADY EXIST" />
+      <item value="对应菜单没有找到！" />
+      <item value="对应系统没有找到！" />
+      <item value="质检项名称由2到30位中文和英文、数字、下划线和横线字符组成" />
+      <item value="流程质检还未发布，不能执行！" />
+      <item value="测试资源没有找到！" />
+      <item value="发布资源不能为空！" />
+      <item value="发布名称已经存在！请修改名称。" />
+      <item value="PUBLISH NAME ALREADY EXIST" />
+      <item value="已经" />
+      <item value="To Be Released" />
+      <item value="staff Labels" />
+      <item value="customer Labels" />
+      <item value="copy From Id" />
+      <item value="is Consistent" />
+      <item value="Consistent" />
+      <item value="未找到上次任务执行结果！" />
+      <item value="当前已有相同名称的词表，如需继续创建，请修改词表名称。" />
+      <item value="词表信息.xlsx" />
+      <item value="同义词" />
+      <item value="词表值" />
+      <item value="描述" />
+      <item value="glossary" />
+      <item value="h" />
+      <item value="词表名称" />
+      <item value="该词表值未找到！" />
+      <item value="词表值仅支持中文、字母、数字、&quot;-&quot;以及&quot;_&quot;" />
+      <item value="词表名称仅支持中文、字母、数字、&quot;-&quot;以及&quot;_&quot;" />
+      <item value="实体" />
+      <item value="检查范围" />
+      <item value="人工质检结果.xlsx" />
+      <item value="机器质检结果" />
+      <item value="机器" />
+      <item value="特定质检项之后" />
+      <item value="全文第$s句之内" />
+      <item value="全文" />
       <item value="SOP定时质检任务不存在！" />
       <item value="客户标签详情" />
       <item value="质检对象" />
@@ -17,49 +54,12 @@
       <item value="Unsatisfied Link Error" />
       <item value="access Order" />
       <item value="spliterator" />
-      <item value="Singleton" />
-      <item value="Set the variant identifier as specified for version 4 UUID values. The two // high order bits of the lower word are required to be one and zero, respectively" />
-      <item value="Creates a new DataDistribution with no data summarized" />
-      <item value="Http Trace Repository" />
-      <item value="Validated" />
-      <item value="We don't want a hard dependency on Redis to allow traffic. Make sure to set * an alert so you know if this is happening too much. Stripe's observed * failure rate is 0.01%." />
-      <item value="Own Redis Rate Limiter" />
-      <item value="Default Incident Handler" />
-      <item value="apply Input Parameters" />
-      <item value="whether Terminate" />
-      <item value="terminate value expect string or integer" />
-      <item value="fatal" />
-      <item value="certificate unknown" />
-      <item value="interrupted" />
-      <item value="on Uncaught Exception" />
-      <item value="key-alias" />
-      <item value="alert" />
-      <item value="NEED TASK" />
-      <item value="unwrap" />
-      <item value="decode Jdk Compatible" />
-      <item value="trust Store Type" />
-      <item value="bad certificate" />
-      <item value="call Decode" />
-      <item value="level" />
-      <item value="eor Interval" />
-      <item value="provience" />
-      <item value="vals" />
-      <item value="vender" />
-      <item value="Hexadecimal string contains non-hex character" />
-      <item value="Stack trace" />
-      <item value="draw" />
-      <item value="Camber Lay Out" />
-      <item value="Removes all of the mappings from this map (optional operation). * The map will be empty after this call returns" />
-      <item value="Atomically increments by one the current value" />
-      <item value="get And Increment" />
-      <item value="Copy the property values of the given source bean into the given target bean. * &lt;p&gt;Note: The source and target classes do not have to match or even be derived * from each other, as long as the properties match. Any bean properties that the * source bean exposes but the target bean does not will silently be ignored" />
-      <item value="To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="796" />
-        <entry key="ENGLISH" value="797" />
-        <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="CHINESE" value="816" />
+        <entry key="ENGLISH" value="817" />
+        <entry key="CHINESE_TRADITIONAL" value="27" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
@@ -82,6 +82,9 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624243455095" />
+    <option name="lastTrimTime" value="1627279496150" />
+  </component>
+  <component name="Settings">
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
