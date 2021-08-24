@@ -54,9 +54,13 @@
           <option name="url" value="git@gitlab.mobvoi.com:ai_commerce/sagittarius-leo-i18n.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/louisyoung1/JD-SHOPPER.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\sujun\IdeaProjects" />
+    <option name="cloneParentDir" value="D:\" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
