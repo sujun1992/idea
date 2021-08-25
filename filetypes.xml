@@ -8,7 +8,6 @@
       <mapping pattern="CSCF_V500R012C00SPC200_FS_EVS_4NIC_DEPLOYMENT" type="PLAIN_TEXT" />
       <mapping ext="fetchandlockhandler" type="PLAIN_TEXT" />
       <mapping ext="grammar" type="PLAIN_TEXT" />
-      <mapping ext="qrc" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="csv" approved="true" type="CSV file" />
       <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
