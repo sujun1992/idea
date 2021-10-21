@@ -74,6 +74,10 @@
           <option name="url" value="git@gitlab.mobvoi.com:ai_commerce/question-match.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.mobvoi.com:ai_commerce/ivr-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\sujun\IdeaProjects" />
