@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="486" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Scene" />
       <item value="recently Action Time" />
       <item value="商品规格" />
       <item value="TO BE RELEASED" />
@@ -54,7 +55,6 @@
       <item value="词表名称" />
       <item value="该词表值未找到！" />
       <item value="词表值仅支持中文、字母、数字、&quot;-&quot;以及&quot;_&quot;" />
-      <item value="词表名称仅支持中文、字母、数字、&quot;-&quot;以及&quot;_&quot;" />
     </histories>
     <option name="languageScores">
       <map>
