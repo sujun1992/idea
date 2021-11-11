@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="486" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="inspect Checkpoint List" />
+      <item value="Scene" />
       <item value="recently Action Time" />
       <item value="商品规格" />
       <item value="TO BE RELEASED" />
@@ -53,8 +55,6 @@
       <item value="h" />
       <item value="词表名称" />
       <item value="该词表值未找到！" />
-      <item value="词表值仅支持中文、字母、数字、&quot;-&quot;以及&quot;_&quot;" />
-      <item value="词表名称仅支持中文、字母、数字、&quot;-&quot;以及&quot;_&quot;" />
     </histories>
     <option name="languageScores">
       <map>
@@ -84,7 +84,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635148382459" />
+    <option name="lastTrimTime" value="1636339006256" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
