@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="486" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="faq Confidence Higher Threshold" />
       <item value="final Treatment" />
       <item value="inspect Checkpoint List" />
       <item value="Scene" />
@@ -54,7 +55,6 @@
       <item value="描述" />
       <item value="glossary" />
       <item value="h" />
-      <item value="词表名称" />
     </histories>
     <option name="languageScores">
       <map>
