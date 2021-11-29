@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="520" />
-    <option name="newTranslationDialogX" value="784" />
-    <option name="newTranslationDialogY" value="486" />
+    <option name="newTranslationDialogWidth" value="518" />
+    <option name="newTranslationDialogX" value="920" />
+    <option name="newTranslationDialogY" value="481" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="AUTO BY IDENTITY" />
+      <item value="MANUAL BY SIGNAL" />
+      <item value="cc Interaction As Manual Life Cycle" />
+      <item value="cc Interaction As Auto Life Cycle" />
+      <item value="set Common Clarify Utterances" />
+      <item value="clarify" />
       <item value="faq Confidence Higher Threshold" />
       <item value="final Treatment" />
       <item value="inspect Checkpoint List" />
@@ -49,17 +55,11 @@
       <item value="Consistent" />
       <item value="未找到上次任务执行结果！" />
       <item value="当前已有相同名称的词表，如需继续创建，请修改词表名称。" />
-      <item value="词表信息.xlsx" />
-      <item value="同义词" />
-      <item value="词表值" />
-      <item value="描述" />
-      <item value="glossary" />
-      <item value="h" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="840" />
-        <entry key="ENGLISH" value="841" />
+        <entry key="CHINESE" value="846" />
+        <entry key="ENGLISH" value="847" />
         <entry key="CHINESE_TRADITIONAL" value="33" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
@@ -84,9 +84,14 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637567162649" />
+    <option name="lastTrimTime" value="1638155144570" />
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="translateDocumentation" value="true" />
   </component>
 </application>
