@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="481" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="given Or Default Utterance" />
       <item value="AUTO BY IDENTITY" />
       <item value="MANUAL BY SIGNAL" />
       <item value="cc Interaction As Manual Life Cycle" />
@@ -54,12 +55,11 @@
       <item value="is Consistent" />
       <item value="Consistent" />
       <item value="未找到上次任务执行结果！" />
-      <item value="当前已有相同名称的词表，如需继续创建，请修改词表名称。" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="846" />
-        <entry key="ENGLISH" value="847" />
+        <entry key="CHINESE" value="847" />
+        <entry key="ENGLISH" value="848" />
         <entry key="CHINESE_TRADITIONAL" value="33" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
