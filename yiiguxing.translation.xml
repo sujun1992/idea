@@ -5,13 +5,17 @@
     <option name="newTranslationDialogY" value="481" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="common Clarify" />
+      <item value="interact" />
+      <item value="clarify" />
+      <item value="tactics" />
+      <item value="SIGNAL" />
       <item value="given Or Default Utterance" />
       <item value="AUTO BY IDENTITY" />
       <item value="MANUAL BY SIGNAL" />
       <item value="cc Interaction As Manual Life Cycle" />
       <item value="cc Interaction As Auto Life Cycle" />
       <item value="set Common Clarify Utterances" />
-      <item value="clarify" />
       <item value="faq Confidence Higher Threshold" />
       <item value="final Treatment" />
       <item value="inspect Checkpoint List" />
@@ -51,15 +55,11 @@
       <item value="To Be Released" />
       <item value="staff Labels" />
       <item value="customer Labels" />
-      <item value="copy From Id" />
-      <item value="is Consistent" />
-      <item value="Consistent" />
-      <item value="未找到上次任务执行结果！" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="847" />
-        <entry key="ENGLISH" value="848" />
+        <entry key="CHINESE" value="852" />
+        <entry key="ENGLISH" value="853" />
         <entry key="CHINESE_TRADITIONAL" value="33" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
