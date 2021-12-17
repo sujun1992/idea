@@ -110,6 +110,10 @@
           <option name="url" value="git@gitlab.mobvoi.com:ai_commerce/wenyan-offline-deploy.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.mobvoi.com:ai_commerce/nlu-model-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\sujun\IdeaProjects" />
