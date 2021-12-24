@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="481" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="day Before The Mission" />
+      <item value="before The Mission" />
       <item value="product" />
       <item value="CHINESE" />
       <item value="Repeat Suggester" />
@@ -53,13 +55,11 @@
       <item value="SYSTEM ALREADY EXIST" />
       <item value="对应菜单没有找到！" />
       <item value="对应系统没有找到！" />
-      <item value="质检项名称由2到30位中文和英文、数字、下划线和横线字符组成" />
-      <item value="流程质检还未发布，不能执行！" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="860" />
-        <entry key="ENGLISH" value="861" />
+        <entry key="CHINESE" value="862" />
+        <entry key="ENGLISH" value="863" />
         <entry key="CHINESE_TRADITIONAL" value="33" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
