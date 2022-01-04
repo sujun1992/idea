@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="481" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="meta" />
+      <item value="metaman" />
+      <item value="metaman track" />
+      <item value="mata" />
+      <item value="mataman" />
       <item value="Mission" />
       <item value="day Before The Mission" />
       <item value="before The Mission" />
@@ -50,21 +55,17 @@
       <item value="系统设定" />
       <item value="系统设ding" />
       <item value="系统设" />
-      <item value="系统设置" />
-      <item value="user Name" />
-      <item value="此系统已经存在！" />
-      <item value="SYSTEM ALREADY EXIST" />
-      <item value="对应菜单没有找到！" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="863" />
-        <entry key="ENGLISH" value="864" />
+        <entry key="CHINESE" value="865" />
+        <entry key="ENGLISH" value="866" />
         <entry key="CHINESE_TRADITIONAL" value="33" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
         <entry key="RUSSIAN" value="1" />
         <entry key="FRENCH" value="2" />
+        <entry key="FILIPINO" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="3" />
         <entry key="CROATIAN" value="1" />
@@ -78,8 +79,8 @@
         <entry key="SCOTS_GAELIC" value="1" />
         <entry key="SPANISH" value="1" />
         <entry key="ITALIAN" value="1" />
-        <entry key="HINDI" value="1" />
-        <entry key="INDONESIAN" value="2" />
+        <entry key="HINDI" value="2" />
+        <entry key="INDONESIAN" value="3" />
       </map>
     </option>
   </component>
