@@ -146,6 +146,10 @@
           <option name="url" value="git@gitlab.mobvoi.com:nanjing-tob/metaman/metaman-gateway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.mobvoi.com:nanjing-tob/metaman/metaman-ffmpeg-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\sujun\IdeaProjects" />
