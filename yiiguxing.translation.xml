@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="481" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="picture" />
       <item value="Ue Rest Auto Configuration" />
       <item value="exist" />
       <item value="already" />
@@ -54,12 +55,11 @@
       <item value="TENANT NO PERMESSION CODE" />
       <item value="Sop Execution History Response" />
       <item value="任务" />
-      <item value="审核管理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="868" />
-        <entry key="ENGLISH" value="869" />
+        <entry key="CHINESE" value="869" />
+        <entry key="ENGLISH" value="870" />
         <entry key="CHINESE_TRADITIONAL" value="33" />
         <entry key="IRISH" value="1" />
         <entry key="DANISH" value="2" />
